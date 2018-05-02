@@ -10,6 +10,8 @@ Original fields:
 "Character race (human, orc, halfling, etc)"
 "Character class (wizard, bard, cleric, etc)"
 
-Also included: 1,980 crowdsourced character names, races, and classes from an ongoing collection of D&D character bios
+Also included in the dataset: 1,980 crowdsourced character names, races, and classes from an ongoing collection of D&D character bios
+
+output.txt : 100MB of generated character names, races, and classes from a char-rnn ( github.com/karpathy/char-rnn ) trained for 3.8 epochs on the input.txt dataset. Training parameters: -rnn_size 512 -num_layers 3 -seq_length 30 -dropout 0.0
 
 Dataset will be posted when the blog post goes live at AiWeirdness.com this week
