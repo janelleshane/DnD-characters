@@ -222,7 +222,7 @@ Velyn Whisperwood,Wood Elf,Monk
 Jack Blastum,Human,Sorcerer
 Brand Siegbert,Fire Genasi,Wizard
 Ector Goodfoot,Halfling,Factotum
-Chlš‘,Aasimar,Bard
+Chlöë,Aasimar,Bard
 Elewynn Oakenheel,Wood Elf,Monk
 Whisper,Eladrin,Rogue
 Aldric Thredon,Human,Bard
@@ -487,7 +487,7 @@ SteinDreg,Dwarf,Cleric
 Florian Merbles,Halfling,Sorcerer
 Loark Stormborn,Dwarf,Cleric
 Vilya Stormborn,Dwarf,Cleric
-Finnith F‘anor,Elf,Bard
+Finnith Fëanor,Elf,Bard
 Ell,Human,Warlock
 Celeste Loneoak,Half-elf,Sorcerer
 Din,Changeling,Bard
@@ -508,7 +508,7 @@ Gabbylittle Gillywook,Gnome,Wizard
 Athirykiel Barrindar,Drow,Weapons Master (Scimitar)
 Nymtar Barrindar,Drow,Rogue
 Sacklebinky Hunklepunk,Gnome,Wizard
-Njal Halm‡rsson,Human,Sorcerer
+Njal Halmársson,Human,Sorcerer
 Maude Moonwhisper,Elf,Ranger
 Nwalme Sorrowsong,Half-elf,Warrior
 Urist Besmarkebar,Dwarf,Cleric
@@ -603,7 +603,7 @@ Chance,Dragonborn,Rogue
 Basil,halfling,monk
 Jayden Angelesc,Human,Ranger
 Daylan,Halfling,Barbarian
-Emmerich MŠvros,Tiefling,Arcanist
+Emmerich Mävros,Tiefling,Arcanist
 kaffe,kenku,warlock
 Staren Emmerich,Human,Sorcerer|Ardent
 Blade of the Elements,Earth Genasi,Swordmage
@@ -710,7 +710,7 @@ Rosalyn Lel'eveth Catra,Half-elf,Paladin
 Amber,Dwarf,Sorceress
 Rea,Human,Bard
 Lily,Human,Bard
-Grthr-TŸk'en Orokhla Aldenstone,Orc,Wizard
+Grthr-Tük'en Orokhla Aldenstone,Orc,Wizard
 Evalayne,High Elf,Wizard
 Emgeri,Human,Ranger
 Drumlin Bloodknuckle,Dwarf,Barbarian 
@@ -727,7 +727,7 @@ Nimrath Darquefartyr,half-ogre,necromancer
 Tamora Rageskull,Dragonborn,Barbarian
 Zalmurth,half-elven,cleric
 Gromarthin the Wicked,human,gloom mage
-êsabel Puentos,human,scholar
+Ísabel Puentos,human,scholar
 Sombra,dog,animal companion
 Macbethu,Human,Rogue 
 Kokin Twice-Born,human,druid
@@ -743,7 +743,7 @@ Erok Kragen,Half Orc,Barbarian
 Hypaticra,human,sorceror
 Duthal Firyn,Elf,Wizard
 Braxis Orali,Elf,Mage
-Halvor Schildkršte,Dwarf,Fighter
+Halvor Schildkröte,Dwarf,Fighter
 Ozzy Ozzy Ozzy ,Gnome,Bard/Cleric
 Zvezdoliki,Warforged,Swordmage
 Granny Samara,Wood elf,Cleric
@@ -936,15 +936,15 @@ Irasmus,Half-elf,Samurai
 Keitilu,Darfellan,Cleric/Stormcaster
 Giacomo,Elf,Swashbuckler
 Thukni,Samsaran,Oracle
-Sinderglšd,Tiefling,Warlock
+Sinderglöd,Tiefling,Warlock
 Benadryl Cucumber,Dragonborn,Sorceror
 Jakar the cat,Elf,Monk
 Lotar,Human,Fighter
 Jilly Nargrazg Anderson,half-orc,ranger
 Arvele Dundragon,half-dwarf,fighter
-En’redir Sil‡riel,elf,bard
+Eníredir Siláriel,elf,bard
 Veronika Dominikovna,tiefling,wizard
-Sa•fa Stormweaver,elf,cleric
+Saïfa Stormweaver,elf,cleric
 Enoby Billie Mikkelmoor,Warforged,Warlock
 Pharius Vrane,half-elf,paladin
 Bonnie Tylarr,half-orc,rogue
@@ -969,7 +969,7 @@ Nasain,Cat-folk,Rogue
 Travis,orc,barbarian
 Bellandra,high elf,wizard
 Stinky,dwarf,rogue
-RŸl,Lizard-folk,Shaman
+Rül,Lizard-folk,Shaman
 Bob Johnson,Human,Sorcerer
 Tank,Halfling,Warrior 
 Valindra,Half-elf,Bard
@@ -1108,7 +1108,7 @@ Kazio Quickhand,halfling,swashbuckler
 Indigo Kaos,Elf,Druid
 Val Tokani,human,oracle
 Tharseo Kai Synistemi,human,paladin
-C¾lren Maithcroi,elf,arcane trickster
+Cælren Maithcroi,elf,arcane trickster
 Kellar,dwarf,druid
 Salabar Darkroot,Gnome,Ranger
 Fortrek Ironfist,Dwarf,Paladin
@@ -1204,9 +1204,9 @@ Thom Mossytoes,Halfling,Rogue
 Loopy Proudnose,Halfling,Wizard
 Ashani Kelinde,human,cleric
 Ergane,Human,Wizard
-H”s”nt”r,elf,wizard/illusionist
+Hîsîntîr,elf,wizard/illusionist
 Ceoles,Couatl,Couatl
-Silw Br‰ltini,human,magic user
+Silw Brâltini,human,magic user
 Kazuki Tokiwa,Hengeyokai,Sorcebard
 Azalea,Lamia,Wizard 
 Lllleollelsss,silver dragon,wizard
@@ -1493,7 +1493,7 @@ Khran of the Bloodspear Tribe,half-orc,barbarian
 Olin Irondome,Dwarf,Fighter / Thief
 Merrick Oftwilder,Human,Fighter
 Bradamante,Human,Paladin
-RomarŽ EsmŽ,Velisborn,Monk
+Romaré Esmé,Velisborn,Monk
 Anna Syree,Human,Rogue
 Derek Kade,Human,Wizard
 Brother Esau,Human,Cleric
@@ -1692,7 +1692,7 @@ Sun Ember,tabaxi,rogue
 "Vhark, the Blind Wanderer of the free South",Half-elf,Fighter
 Ruby Connover,Half-Orc,Paladin
 Trina Vilar,Half-Elf,Warlock
-Riastr‡n of unclear Gender and Many Inventions ,Half-elf,Artificer
+Riastrán of unclear Gender and Many Inventions ,Half-elf,Artificer
 Tiggle Phiddlefan,Gnome,Barbarian
 Talynara Kinore,Elf,Rogue
 Balen Valarius,Human,Paladin
@@ -1709,7 +1709,7 @@ Micarzyne,Drow,Barbarian
 Ratho Wheatdust,human,rogue
 Inkling Knillwick,Warforged,Artificer
 Ardax,Dragonborn,Paladin
-"Grind‰st, attorney of The Lady of Pain",Human revenant,Cleric
+"Grindâst, attorney of The Lady of Pain",Human revenant,Cleric
 Cage Bingo,Tiefling,Warlord
 Sarzoj,Elf,Rogue
 Zerth Nox,Githzerai,Monk
@@ -1824,7 +1824,7 @@ Nivaar,Dragonborn,Sorcerer
 Rex Romanov,Human,Druid
 Luther Sabbatine,Human,Warlock
 Rust Steel,Human,Rogue
-Blit Abriel Nei Debrusc,Human,Sorcerer
+Blit Abriel Nei Debrusc,Human,Sorcerer
 Ezren,Tiefling,Wizard
 Theren Xiloscient,High elf,Wizard
 Jaskier,Human,Bard
@@ -1896,7 +1896,7 @@ Burargo,Gnome,Investigator
 Ozbert,Human,Oracle
 Pumbaa Manslapper,half-orc,Oracle
 Lance Logan,True Atlantean,Veritech Pilot
-HŽlo•m,Elf,Wizard
+Héloïm,Elf,Wizard
 Snarky,Half-orc,Bard
 Flint frostbeard,Dwarf,Warlock
 Korath Delgar,Zentraedi,Officer
@@ -2112,9 +2112,9 @@ Rhodar Spider-Thing,Half-Elf,Fighter Wizard Cleric
 Woko,Human,Monk
 Serda,Human,Magus
 Tearlach Senn,Half-elf,Bard
-Thorvald Asbj¿rnsen,Human,Cleric
-Calliope Tamar’s,(Variant) Human,Druid
-Moiran Lucit—,Tiefling,Warlock
+Thorvald Asbjørnsen,Human,Cleric
+Calliope Tamarís,(Variant) Human,Druid
+Moiran Lucitó,Tiefling,Warlock
 Adrea Hiero,Human,Paladin
 Frobwit Zanzibar,Elf,Wizard
 Alhira Almaru,(Variant) Human,Multiclass Fighter / Rogue
@@ -2249,7 +2249,7 @@ Aelar,Elf,Wizard
 Misizi Velaphi,Half-Orc,Occultist
 Erdenichimex,Dragon,Dragon
 Vanderlose,Human,Bard
-Junker Vanderlose Tžr,Human,Bard
+Junker Vanderlose Tûr,Human,Bard
 Wegilld kuiveae,Human ,Rouge
 Crenko,Half-elf,Warlock
 T'swizzle,Orc,Rogue
@@ -2275,7 +2275,7 @@ Arantzazu,Kobold,Sorcerer
 Lychaera,half elf ,rogue
 Amaia,Dragon,Dragon
 Gling,Gnome ,Wizard
-Edler Awrkhay Tžr,Human,Fighter
+Edler Awrkhay Tûr,Human,Fighter
 Javel McGetuck,Dwarf,Fighter
 "Coleridge ""Skystrike"" Gray",Elf,Cleric
 Sir Richard the Chaste,Human,Paladin
@@ -2452,7 +2452,7 @@ Alexander Stonefel,Dwarf,Fighter
 Kili,Halfling,Sorcerer 
 Fiammetta di Garazzolo,Fire genasi,Paladin
 Shula Shaga,Human,Eldritch Knight
-àak__ka,Aarakocra,Barbarian
+‡ak__ka,Aarakocra,Barbarian
 Alavandria,Elf,Cleric
 Anna Godebert,Human,Paladin
 Clara,Tiefling,Warlock
@@ -2587,7 +2587,7 @@ Zoyala Colsirdi,human,sorcerer
 Teseret Stoneloom,Human,Sorcerer
 Ley of Lorne's Tooth,Wood elf,Ranger
 Dominic Canungar,half-elf,paladin
-Gjišrdi Amastacia,Half Elf,Cleric
+Gjiördi Amastacia,Half Elf,Cleric
 Bor,Dwarf,Barbarian
 Glurr'gh Brokentoof,Half-Orc,Barbarian
 Thorril,Human,Fighter
@@ -2615,7 +2615,7 @@ Idrifel Besson,Half-elf,Bard
 STARGH PLATNAMH,Orc,Monk
 Marika Vellyn,Half-elf,Wizard
 Garren,Human,Rogue
-EilŽonoire,Human,Wizard
+Eiléonoire,Human,Wizard
 Rothgar,Human,Barbarian
 Cleary ,Halfling,Rogue
 Mithrom,Human,Ranger
@@ -2710,7 +2710,7 @@ Allegra,Human,Bard
 OK Google,dragonborn,fighter
 Shrax,Orc,Barbarian
 Hulkman the Intruder,Orc,Paladin
-Sjšgren,Half-orc,Monk
+Sjögren,Half-orc,Monk
 Roscoe,Halfling,Warlock
 Bo Borigmi,Halfling,Fighter
 Galen the Vain,Half-elf,Rogue 
@@ -2806,7 +2806,7 @@ Arnost Wayham,half-orc,Fighter
 Paklan Crackingham,Dwarf,Wizard
 Tydus Flinge,Water Genasi,Warlock
 Bunkdongle,Gnome,Druid
-ZamŠren,Aquatic Elf,Bard
+Zamären,Aquatic Elf,Bard
 Ezra C. Grim,High Elf,Wizard
 Ferrous Boartusk,Human,Barbarian
 Miriam Pendragon,half-elf,paladin
@@ -2962,7 +2962,7 @@ Silence,Tiefling,Warlock
 Makaria,Tiefling,Warlock
 Jacho Mard,Human,Ranger
 Glorrak,Dwarf,Fighter
-Durbat Gh‰sh agh Burzum,Half-orc,Rogue
+Durbat Ghâsh agh Burzum,Half-orc,Rogue
 Telvos,Nagaji,Paladin
 Dronak Harrowblade,duergar,favored soul
 Clara,Human,Wizard
@@ -3106,7 +3106,7 @@ Shava Nailo ,Elf,Cleric
 Vyxia Keldarin,Half-elf,Cleric
 Orsik Thunderhammer,Dwarf,Cleric
 Ohaiyo,Half-elf,Rogue
-Tehir al'Kyra al'Parishat Viny‡ya al'Katheer,Tiefling,Swashbuckler
+Tehir al'Kyra al'Parishat Vinyáya al'Katheer,Tiefling,Swashbuckler
 Kazuma,Human,Monk
 Yarp ,Goblin,Barbarian
 Sassie Gomp,Gnome,Sorcerer
@@ -3782,7 +3782,7 @@ Dook,Minotaur,Fighter
 Gorsk,Dwarf,Fighter
 Columbus (Collin) Larch ,Half-Elf,Slayer
 Howard,Human Were-Dire-Weasel,Cleric 
-Meaghan U’ Togha,Penitent,Shifter
+Meaghan Uí Togha,Penitent,Shifter
 Dhugnaen Bromirlum Nordus,Dwarf,Brawler
 Trogdor,Dwarf,Cleric
 Arno,Aquatic Elf,Soulknife
@@ -3837,7 +3837,7 @@ Stickpin,Goblin,Rogue
 Adolphus,Human,Paladin
 Skithyrix Schorlath,Dragonborn,Rogue
 Alden d'Lyrander,Half-elf,Fighter
-Victoire Delaquˆ,Human,Zealot
+Victoire Delaquà,Human,Zealot
 Seradina Jin,Human,Fighter
 Countess Roumyana val'Inares,Val,Cleric
 Newt,Gnome,Rogue
@@ -3991,7 +3991,7 @@ Caledor Asuryan,Elf,Paladin
 Tethlis Caradryel,Elf,Bard
 Kai Solaran,Half dragon,Monk
 Cicero Tiberius Shadolan,human,fighter
-Casevar Tuth‘lwa,Half-elf,Bard
+Casevar Tuthëlwa,Half-elf,Bard
 Kale Ryuson,Halfling ,Fighter
 Bel Korhadris,Elf,Monk
 Aethis Bel Hathor,Elf,Bard
@@ -4112,7 +4112,7 @@ Rewyn,Gnome,Wizard
 Azula,Genasi,Sorcerer
 Noldar,Elf,Wizard
 Talia Dreadwood,Human,Arcanist
-QuevenzhanŽ,human,warlock
+Quevenzhané,human,warlock
 Flink,Halfling,Cleric
 Starbuck,half elf,druid
 Squid,kenku,cleric
@@ -4358,7 +4358,7 @@ Moirin,Half-fey,Scout
 Kiirdal Dhen'jos,Hobgoblin,Paladin
 Baelik Kyvan,Firbolg,Druid
 Vorgut Firebeard,Dwarf,Warrior
-çrtemis,Human,Druid
+Ártemis,Human,Druid
 Xander,Human,Rogue Sorcerer
 Smaili,dwarf,fighter
 Igel,Dwarf,wizard
@@ -4433,10 +4433,10 @@ Nyan,Catfolk,Ranger
 Shatteroth,human,wizard
 shat er roth,human,wiznerd
 Gil Lovelark,halforc,artificer
-Silas Adžn,tiefling,wizard
+Silas Adûn,tiefling,wizard
 "Sarah ""Kalleandra"" Auroris",human,druid
 Lo-khan,goliath,barbarian
-Ashanore Adžn,half-elf,rogue
+Ashanore Adûn,half-elf,rogue
 Heklar ,Tiefling ,Rogue
 Carvell,Genasi,Cleric
 Durdana,Half-Elf,Fighter
@@ -4592,7 +4592,7 @@ Elvish Priestly,Elf,Cleric
 Tyler Do'Urden,Drow,Fighter
 Ulgrim Axebuckle ,Dwarf,Fighter
 Noruiwen,Half-elf,Warlock
-Pils FinkbrŠu,Dwarf,Bard
+Pils Finkbräu,Dwarf,Bard
 Medora,Human,Fighter
 Pils De Klok,Dwarf,Bard
 Miza Moonchaser,Half-Orc,Wizard
@@ -4845,9 +4845,9 @@ Cyrillus Thompson,Vishkanya,Sorcerer
 Bert,Half-orc,Fighter
 Thelbrumm of Darkambl,half-elf,ranger
 Zilvax Renthor,Elf,Wizard
-Jelenneth Na•lo,High Elf,Wizard
+Jelenneth Naïlo,High Elf,Wizard
 Pell,Gnome,Monk
-Hans PŸnchman,Minotaur,Monk
+Hans Pünchman,Minotaur,Monk
 Ciara Emerson,Angel,Hunter
 Calena Stormwind,Human,Rogue
 Paul Granger,Grippli,Cavalier
@@ -4955,8 +4955,8 @@ Emory Skovgaard,Aasimar,Paladin
 Mei Qiao,Human,Monk
 Riswynn-Kirstryd Ilde Ironfist,half-dwarf,sorcerer
 Olga Brandybun,Human,Fighter
-Kelana TekenÕep,Drow,Warlock
-Epiphany AktaÕiados,Tiefling,Warlock
+Kelana Teken’ep,Drow,Warlock
+Epiphany Akta’iados,Tiefling,Warlock
 Fabala Delmirev,Human,Sorcerer
 Sacha Kassan,Human,Barbarian
 Adinoj Aleghym,Drow,Fighter
@@ -5020,7 +5020,7 @@ Laelia Marianus,Human,Bard
 Evaey,Sylph,Rogue
 Vitya Krylov,Human,Fighter
 Asphodel Boeotia,Human,Sorcerer
-Rhysarion Na•lo,Elf,Rogue
+Rhysarion Naïlo,Elf,Rogue
 Marisa Nepthys,Human,Paladin
 Lisbet Helvar,Aasimar,Fighter
 One-eye,Gnome,Warlock
@@ -5035,7 +5035,7 @@ Cervantes Stormrender,Human,Rogue
 Elianne,Human,Wizard
 Cora Tealeaf,Halfling,Druid
 Ashtorel,Elf,Ranger
-Sšren Bluescale,Dragonborn,Warlord
+Sören Bluescale,Dragonborn,Warlord
 Janiya,Half elf,Ranger
 Dahlior,Elf,Bard
 Iftan,Dwarf,Fighter
@@ -5060,7 +5060,7 @@ Bolivar Winetongue,Halfling,Wizard
 Sarafein Zerenith,Drow,Rogue
 Samara,Human,Monk
 Pacific,Human,Cleric
-Shaelyn dÕLyrandar,Human,Sorceress
+Shaelyn d’Lyrandar,Human,Sorceress
 Pserion,Human,Stargazer
 Dagna Bronzebottom,Dwarf,Ranger
 Tyri Rhuul,Human,Monk
@@ -5111,8 +5111,8 @@ Alvin Simon Theodore,Gnome,Paladin
 Leora,Human,Cleric
 Linda,Halfling,Sorcerer
 Gregosaurous Rex,Dwarf,Fighter
-T˜sta,Teifling,Sorcerer
-T˜sta,Teifling,Warlock
+Tòsta,Teifling,Sorcerer
+Tòsta,Teifling,Warlock
 Keith Fistington,Human,Monk
 The Nameless,Naga,Spellsword
 Ulkirk,Troll,Shaman
@@ -5208,7 +5208,7 @@ Heinrich von Lindwurm,Silverbrow Human,Bard
 Westi,human,some kind of champion
 Olga,human,barbarian
 Hootsman,Cyborg,Barbarian
-Schneekšnig,Dwarf,Penguin shaman
+Schneekönig,Dwarf,Penguin shaman
 ICqueen,Elf,Decker
 Sir Ondeth of Marquar,Human,Knight
 Angus McFive,Human,Prince
@@ -5246,7 +5246,7 @@ Nienna,Human,Druid
 Marcon Domine,Human,Rogue
 Larceny,Tiefling,Rogue
 Roz d'Lyrendar,Half elf,Rogue
-L—lindir of Nargothrond,elf,wizard
+Lólindir of Nargothrond,elf,wizard
 Pax Merryfeather,halfling,rogue
 Sleve McDichael,human,rogue
 Thaliendra,Elf,Druid
@@ -5301,7 +5301,7 @@ Jim Death,Elf,Fighter/Magic-User
 Short Norman,Halfling,Fighter
 Flaming Helen,Human,Warmage
 Stellar joe,Human,Fighter
-Yrsa Sk‡ld‡dottir,Human,Barbarian
+Yrsa Skáldádottir,Human,Barbarian
 Lanky Leena the Righteous,Human,Cleric
 Sapling Sally,Halfing,Halfling
 Jack of Geoff,Human,Fighter
@@ -5324,7 +5324,7 @@ Berglanda,Half Orc,Thief
 Berk,Dwarf,Dwarf
 Beru,Half orc,Fighter
 Bhikshu The Divine,Human,Monk
-Eredin An Avellac'h,Half-elf,Paladin
+Eredin An Avellac'h,Half-elf,Paladin
 Black Oak of Orkansas,Half Orc,Fighter
 Aldor Bepis,Halfling,Bard
 Boeuf,Halfling,Thief
@@ -5334,7 +5334,7 @@ Cirili,Human,Fighter
 Reginald BronzeBottom,Warforged,Warlock
 Claire,Half Elf,Fighter/Magic User
 Claremont,Human,Cleric
-Caelas Isilm‘,Elf,Fighter
+Caelas Isilmë,Elf,Fighter
 Sadirra Trilby,human weretiger,bard
 Bethtilda,asamar,monk
 Ruby,dwarf,fighter/cleric
@@ -5381,7 +5381,7 @@ Tahib,Human,Rogue
 Rai'id,Human,Fighter
 Suayla,Human,Bard
 Garl Glittergold,Gnome,Rogue
-LÕn-Dah,Goblin,Rogue
+L’n-Dah,Goblin,Rogue
 Grozen Hookblade,Half-Orc,Fighter
 Dionivis,Gnome,Warrior
 Louis de Breteuil,Elf,Fighter
@@ -5396,7 +5396,7 @@ Adriarin Melouchevine,Wood Elf,Ranger
 Kirby,Human,Sorceror
 Crimmin Thorndodger,Dwarf,Fighter
 Servatius,human,cleric
-kulvinder immerfšrden,dwarf,warlock
+kulvinder immerförden,dwarf,warlock
 Dar,Human,Cleric
 Darg Barnflag,Human,Thief
 Rajcha the Bold,Gnome,Cavalier
@@ -5494,8 +5494,8 @@ Trast d'Velderan,human,fighter
 Kasand'r Moraesz,Drow,Bard/Shadowdancer
 Streicher the Magnificent ,Half-elf,Bard
 Fornor The Powerful,Elf,Elf
-Miss Solanine KonstrŸd,Human,Witch
-Kopeiren èinfugen,Wood elf,Bard
+Miss Solanine Konstrüd,Human,Witch
+Kopeiren Ëinfugen,Wood elf,Bard
 Francisco Del Fuego The Fearless,Human,Paladin
 Barnaby Pray,Human,Rogue
 Selwyn Moondown,Half-elf,Warlock
@@ -5563,7 +5563,7 @@ Sterling Leith,human,warlock
 Lucille,Human,Wizard
 Oddrey Marmidas,halfling,bard
 Devan,Human variant,Ranger
-Thala•,Goliath,Ranger
+Thalaï,Goliath,Ranger
 Roggen Rochelune,Human,Warrior
 Ash Pawan,Human,Rogue
 Anna Von Prussen,Human,Duellist
@@ -5773,11 +5773,11 @@ Bobbin Godshunned,Halfling,Barbarian
 Smoldiir Vulkogaan,Dragonborn,Cleric
 Grook Barook,Half-orc,Warlock
 Feykro Graavidost,Dragonborn,Paladin
-BrŸnlop Dštun Vjern,Goliath,Cleric
+Brünlop Dötun Vjern,Goliath,Cleric
 Ilun Lubog,Human,Warlock
 Alerach,Dragon,Barbarian
 Meliae,Dragonborn,Ranger
-CortesmŽ al-Zahir,human,class
+Cortesmé al-Zahir,human,class
 Bisk Bellwater,Elf,Wizard
 Splendiferous Thui Kip Taq Jalar Versa,kobold,bard
 Hashib,gnome,runepriest
@@ -5836,7 +5836,7 @@ Elizabeth Lorthorin,Half-E;f,Druid
 Vermalen met Geweld,elf,wizard
 Pluck,Human,Warlock
 Pzolo,Warforged,Paladin
- RhabarberBarbaraBarBarbarenBartBarbierBierBierbarBŠrbelBarBezahlBankRhabarberBarbaraBarBarbarbawabawa,orc,bard
+ RhabarberBarbaraBarBarbarenBartBarbierBierBierbarBärbelBarBezahlBankRhabarberBarbaraBarBarbarbawabawa,orc,bard
 Rana Tyellome,Dark elf,warlock
 Marius Schneider,human,operative
 Mielas,human,arcanist
@@ -5975,7 +5975,7 @@ Leonara Meisent,human,fighter
 Ozfurt Wrangle Albin Bitnot Magnifizzle,gnome,wizard
 Qindra of Silverleaf,elf,paladin
 Viviel Onnurai,elf,fighter
-Altruism Solbjšrnssšn,human,barbarian
+Altruism Solbjörnssön,human,barbarian
 Creed,tiefling,sorcerer
 Zarrakas Kyvir,tiefling,bard
 Zwakstog the Wizard,human,barbarian
@@ -5992,7 +5992,7 @@ Carric Fletcher,half-elf,bard
 Faurgar the Flame,human,cleric
 John Heckler,halfling,monk
 Kaelor Brasknurr,human,ranger
-L’ng H—ngy,half-elf,ranger
+Líng Hóngy,half-elf,ranger
 Lureene Evenwood,half-elf,monk
 Magi Adoak,human,monk
 Murad Osman,human,gunslinger
@@ -6042,7 +6042,7 @@ Ongor Flowermine,dwarf,cleric
 Kellethras,Gnome,Cleric
 Ba'al,Half-Dragon,Dragonfire Adept
 Kilara The Blade,Elf,Thief
-Shyltana LilÕNoamuth,drow,cleric
+Shyltana Lil’Noamuth,drow,cleric
 Klod,Human,Thief
 Aeron,Tiefling,Kineticist
 Walter Sigwin,mul,fighter
@@ -6206,8 +6206,8 @@ Fiona Killian,Half-Elf,Bard
 Iskra Helltroz,Dragonborn,Sorcerer
 Chakos Quilfein,Drow Elf,Bard/Necromancy Wizard
 Keira Thornwhisper,Halfling,Rogue
-TaŠli Ansrevar,Changling,Druid
-Xeila Na•lo,Elf,Druid
+Taäli Ansrevar,Changling,Druid
+Xeila Naïlo,Elf,Druid
 Rin,Human,Monk
 Chi-Tik,Thri-Kreen,Monk
 Sol,Volodni,Sohei
@@ -6246,7 +6246,7 @@ Thamrin Teulath,Elf,Ranger
 Illiric Vaelutharrn,Half elf,Sorcerer
 Shujen,Halfling,Bard/Wizard
 Viendre,Elf,Barbarian/Rogue
-TŽ Willowisp,halfling,fighter
+Té Willowisp,halfling,fighter
 Rebuilt,Warforged,Wizard/Fighter
 Sionnach Alainn,half elf,rogue
 Tsarra,half elf,cleric
@@ -6293,7 +6293,7 @@ Calenregol Baralin-Faervel-Duvain-Filix-Castawael-Escalgwen-Wistelbrae-Caraethie
 Mordecai Direfang,Wood Elf,Druid
 Bonzo Throckmorton,Halfling,Rogue
 Mylseph Lir-Talindis,Half-Elf,Wizard
-Sorrelbach …sterbanden,Gnome,Artificer
+Sorrelbach Österbanden,Gnome,Artificer
 Marcelius Kent VIII,Dwarf,Paladin
 Fenriel Eshbirith,Dragonborn,Ranger
 Zeff Danse,Kenku,Rogue
@@ -6323,7 +6323,7 @@ Frost,Genasi,Barbarian
 Serenity,Human,Ranger
 Mimi Loki,Human,Sorcerer
 Brillmora Axemaiden,Dwarf ,Skald
-Ilaria T’rananniel,Half elf,Bard
+Ilaria Tírananniel,Half elf,Bard
 Ceilidh Beatha,Human,Ranger
 Onika,human,fighter
 Tulip,Half-orc,Barbarian
@@ -6559,8 +6559,8 @@ Durin,Elf,Paladin
 Wyntir,Half-elf,Bard
 Arkem,Human,Rogue
 Rendog,Hobgoblin,Spellthief
-Kuruns‰r,Dragonborn,monk
-Sebek Monuis‰r,Dragonborn,Barbarian
+Kurunsâr,Dragonborn,monk
+Sebek Monuisâr,Dragonborn,Barbarian
 Hinengara,Tiefling,Warlock
 Shran Silick,Dwarf,Wizard
 Iant,Goblin,Rogue
@@ -6614,7 +6614,7 @@ Rainbow Trout,Human ,Druid
 Caarion,Aarakocra,Blood Hunter
 Korra Hunting Tiger,Catfolk,Rogue
 Aniwara,Tiefling,Ranger
-Faol‡n,Wood Elf,Ranger
+Faolán,Wood Elf,Ranger
 Surina Shiningwing,Dragonborn,Cleric
 Garim Toesmasher ,Gnome,Barbarian 
 Aspen Darkblade,Elf,Wizard 
@@ -6781,7 +6781,7 @@ Vadrak Galanodel,Snow Elf,Swordsage
 Freya,Elfling,Bloodrager
 Eliah,Human,Bard
 Gorin the Smasher,Dwarf,Fighter
-EdrastŽ Yon Viscon,Gnome,Wizard
+Edrasté Yon Viscon,Gnome,Wizard
 Nox'ildun,Aasimar,Sorcerer
 Lem,Halfling,Sorcerer
 Caliga Tenebris,Drow,Ranger
@@ -7036,7 +7036,7 @@ Ivan,Human,Paladin
 Brewmor Kegtosser,Dwarf,Cleric
 Tesselin of the Ten Cities,High elf,Wizard
 Skholvra White-Eye,half-orc,fighter
-Zžkhwlaaey Sharptooth,half-orc,bard
+Zûkhwlaaey Sharptooth,half-orc,bard
 Kithri,tiefling,sorcerer
 Zbaleh Shalahaniit,human,monk
 Guthmund,Aasimar,Cleric
@@ -7098,7 +7098,7 @@ Francis,Assimar,Warlock fae
 Ichacrow Crane,Aarakocra,Gunslinger
 Dave,Lizardman,Barbarian
 Dwayne the Roc Crowson,Aarakocra,Barbarian
-Se–or El Chirpchirp,Aarakocra,
+Señor El Chirpchirp,Aarakocra,
 Arnold Squawksnegger,Aarakocra,Barbarian
 Birdy McBirdface,Aarakocra,Barbarian
 Crownan The Birdbarian,Aarakocra,Barbarian
@@ -7114,7 +7114,7 @@ Jondec Coalborn,Dwarf,Blood Hunter
 Allison Balroris,Half-Elf,Sorcerer
 Canute,Half-Orc,Bard
 Rhond,Half-orc,Paladin
-Tharœn Rahvodorim,Dragonborn,Barbarian
+Tharún Rahvodorim,Dragonborn,Barbarian
 Adair,Dwarf,Palidan
 Atticus Liesmith,Halfling,Rogue
 Liriah Deschaine,Human,Favored Soul
@@ -7138,7 +7138,7 @@ Titan,Fallen Aasimar,Paladin
 Jorvarsk of the Bear Claw,Mountain Dwarf,Ranger
 Ghhrammrrr,Wild Dwarf,"Barbarian, Druid"
 Imara Winterson,Human,Rogue
-Cefin Na•lo,Half-Elf,Bard
+Cefin Naïlo,Half-Elf,Bard
 Grlx,Goblin,Warlock
 Kepesk,Urd,Cleric
 Thalion N'umosse,Elf,Warlock
@@ -7186,7 +7186,7 @@ Mag Pyrh,Changeling,Phoenix sorcerer
 Unknown (three),Half Elf,Rogue Assassin
 Mag Pyrh,Changeling,Phoenix sorcerer
 Maris,Water Genasi,Druid
-Immeralis NiŠlo,Wood elf,Druid
+Immeralis Niälo,Wood elf,Druid
 Argys Bluehands,Human,Monk
 Heisenburg Turm,Gnome,Oracle
 Renton Stonehill,Oread,Monk
@@ -7229,7 +7229,7 @@ Kyrria Beauregard,Gnome,Cleric
 Brynn,Half-Elf,Druid
 Elandril Do'ama,Elf,Rogue
 Gideon,Gnome,Cleric
-StŸrmdrak ,Dwarf,Cleric
+Stürmdrak ,Dwarf,Cleric
 Savviel Allios,Aasimar,Bard
 Manfeandil,Elf,Fighter
 Lennox Faust,Human,Warlock
@@ -7504,7 +7504,7 @@ Tormund Stormsbane,Human,Fighter
 Rasputin,shardmind,psion
 Gabriel,halfling,rogue
 Itoth Uquu,Elf,Ranger
-Afua Allmhur‡n DaAxis,Deva,bard
+Afua Allmhurán DaAxis,Deva,bard
 Kathra Torunn,Dwarf,Bard
 Vlog,Orc,Bard
 Kriv,Dragonborn,Fighter
@@ -7586,7 +7586,7 @@ Shaundra Leanni,Human,Ranger
 Masque,Gnome,Rogue
 Zuth Orbthorn,Human,Wizard
 Ranaz ,Catfolk,Alchemist
-Džrnir,Dwarf,Ranger
+Dûrnir,Dwarf,Ranger
 Fedge Dinkwhistle,Gnome,Druid
 Rory,Catfolk,Bard (But rogue - like)
 Tinker,Warforged,Clockwork Knight
@@ -7661,7 +7661,7 @@ Tiztren Stormwind ,White dragonborn ,Gunslinger
 Pel'ias Talasel,High Elf,Druid
 Godric Greycastle,Human,Cleric
 Anhedonius Foppington Switchblade,human,Rogue
-PŽricles,Orc,Fighter
+Péricles,Orc,Fighter
 Sahsnotas,Half-elf,Sorcerer
 Ramona,Wood elf,Druid
 Illithria ,Elf,Ranger
@@ -7857,9 +7857,9 @@ Tarvus Kel'darian,Human,Barbarian/Fighter
 Washington Vex,Dragonborn,Barbarian
 "Gwen ""Sorrow"" Lirigon",Tiefling,Rogue
 "Echo, the Mistress of the Void",Human,Star-pact Warlock
-This našl,Drow,Cleric
+This naöl,Drow,Cleric
 Carrick,Drow,Rogue
-Thia našl,Drow,Druid
+Thia naöl,Drow,Druid
 Nothing,Tiefling,Warlock
 Ezughal,Dwarf,Cleric
 Adran,Wood elf,Gunslinger
@@ -7907,7 +7907,7 @@ Nysfyire,Dragonborn,Rogue
 Thia,Elf,Ranger
 Jorrick Stendahl,Rock Gnome,Wizard
 Jie Ferngully,half-elf,druid
-V¿lve Sei_fr¿ken,Goliath,Druid
+Vølve Sei_frøken,Goliath,Druid
 Keli ,Halfling ,Ranger
 Keli ,Halfling ,Ranger
 Yanrith,Tiefling,Sorcorer
@@ -7920,7 +7920,7 @@ Daveth,Half-elf,Rogue
 Jasper,Tiefling,Bard
 Honor RedNight,Dragonborn,Cleric
 Fear,Orc,Bard 
-Aoife n’ Dubhshla’ne,Eladrin,Wizard 
+Aoife ní Dubhshlaíne,Eladrin,Wizard 
 Oldan Sandtracker,Gnome,Wizard
 Nivek Mistshadow,Half Elf,Monk
 Skagis Fireforge,Dwarf,Monk
@@ -8259,7 +8259,7 @@ Korryn,Half-elf,Druid
 Elzenya,Half-elf,Ranger
 Zalia,Tiefling,Cleric
 Zion Feranus,Half-elf,Rogue
-Vikakeg ÓskyskullÓ of the spine-clan,Goliath,Fighter
+Vikakeg ”skyskull” of the spine-clan,Goliath,Fighter
 Nystwulf Thorhildsson,Human,Barbarian-Path of the Berserker
 10k,Human,Artificer
 York,Half-elf,Ranger
@@ -8273,7 +8273,7 @@ Jenna Steele,Human,Paladin
 Bradley Cooper,Human ,Bard
 Iarno,Half elf,Bladesinger 
 Garr,Firbolg,Barbarian
-Ržne Filagot,Human,Cleric
+Rûne Filagot,Human,Cleric
 Knocks,Half-Orc,Barbarian
 Gimble,Gnome,Bard
 Shiv,Goblin,Rogue
@@ -8385,7 +8385,7 @@ Large Marge,Half-orc,Druid
 Harbin,Human,Necromancer
 Ife Okereke,Human,Wizard
 Turpentine Sticklebrick,Gnome,Ranger
-Valborg Raitiojen MŠki Kauniin Soinin,Human,Barbarian
+Valborg Raitiojen Mäki Kauniin Soinin,Human,Barbarian
 K_stutis _ukauskas,Halfling,Wizard
 Kirupaagaran Garan,Human,Monk
 Ilverest Gremouth,Dragonborn,Barbarian
@@ -8603,7 +8603,7 @@ Obsidian Butterfly Misty Sky,Tabaxi,Rogue
 Hildegard Battleforge,Dwarf,Cleric
 Ruawyn of Seyloon,Elf,Bard
 Margot from Tarsus,Human,wizard
-Bael«aral Tharae«rash,Elf,Ranger
+Bael´aral Tharae´rash,Elf,Ranger
 Pedro El Magnifico,Human,Bard
 Jhamsid,Half-elf,Bard
 Renata Valenti,Aasimar,Paladin
@@ -8622,7 +8622,7 @@ Saphira Al'Taneen,Half dragon,Barbarian
 Thorn Draper,Halfling,Rogue
 Gorrthuk,Orc,Barbarian
 Iscah,Human,Witch
-Rolnar Jštunbane,Human,Barbarian
+Rolnar Jötunbane,Human,Barbarian
 Nathbaste,Drow,Sorcerer
 Oshillian,Wood elf,Ranger rogue
 Quarion Bobdy'lhan,Wood elf,Wizard
@@ -8750,7 +8750,7 @@ Brynhild Odinspear,Human,Valkyrie
 Korin Grizzledbeard,Dwarf,Berserker
 Copperpike Grizzledbeard,Dwarf,Warrior
 Marian,Human,Druid
-ÒFoxearsÓ,Elf,Treasure Hunter
+“Foxears”,Elf,Treasure Hunter
 Lilyanna Hedgeroot,Half-Folk,Burgler
 Felton Ironbuckle,Dwarf,Cleric
 Ardamar,Human,Magician
@@ -8791,7 +8791,7 @@ Brotenhiem,Man of Bree,Guardian
 Cubpants,Furry,Diaper Pup
 Bogdon the Foul,Gnome,Sorcerer
 Char Manderhammer,Dragonborn,Paladin
-Tikka nj¿rdbjorg,Halfling,Rogue
+Tikka njørdbjorg,Halfling,Rogue
 Sykid,Wood Elf,Scout
 Caelith,Human,Blackguard
 Zarinea,Elf,Cleric
@@ -8851,7 +8851,7 @@ Nil,Changeling,Archivist
 Ersatz Malfortuno,Gnome,Illusionist
 Mercutio Kveksilber,Human,Alchemist
 Oblomov,Elan,Psion
-Axel ÒPidgeonÓ Molasyaphanoth,Imp,Summoner
+Axel “Pidgeon” Molasyaphanoth,Imp,Summoner
 Maxim Titansun,Human,Mystuc
 Ewig Konrad the Eternal,Kobold,Sorcerer Cleric
 Zetron the Brownie Eater ,Human,wizard
@@ -8876,7 +8876,7 @@ Katherine Deros,Tiefling,Warlock
 Tezzeren,Dragonborn,Paladin
 Aeneas Vice,Cambion,Rogue
 Avium Prunus,Half-Dryad,Druid
-Ocryus TahÕlog,Human,Wizard
+Ocryus Tah’log,Human,Wizard
 Irien,wood elf,wizard
 lenora silverleaf,human,cleric
 cyrillo cotton,halfling,sorcerer
@@ -9074,7 +9074,7 @@ Greasy Bumpkin,Halfling,Rogue
 Kazzador Deathshammer,Dwarf,Barbarian
 Pig Trufflenose,Halfling,Ranger
 Bujok Nazzu,Orc,Bard
-Seamus Voltent‘ar,Half Elf,Rogue
+Seamus Voltentëar,Half Elf,Rogue
 Baelphegor Smith,Tiefling,Rogue
 Koshextli,Elf,Ranger
 Set Nedabwy Kanakht Nezalquidra,Elf,Cleric
@@ -9203,9 +9203,9 @@ Leithan Denoval,Half-dragon,Priest
 Rollo Lightfoot,Halfling,Thief
 Romain Castanov,Human,Fighter/Priest
 Goruza,Half-Orc,Druid
-KehrŠ,Half-Orc,Cleric
+Kehrä,Half-Orc,Cleric
 Kehra,Half-Orc,Paladin
-KehrŠ Orlova,Half-Orc,Paladin
+Kehrä Orlova,Half-Orc,Paladin
 Mister Whiskers,Khajiit,Rough
 Diana Hartswood,Werewolf,Cleric
 Ivsaar Wynro,Elf,Warrior
@@ -9269,7 +9269,7 @@ Valos,Aasimar,Bard
 Corvyre,Aasimar,Paladin
 MiShara,Revenant,Ranger
 Zarga the Sturdy,Half-Dragon,Barbarian
-Nadzieja S—wka,Human,Magus
+Nadzieja Sówka,Human,Magus
 Tiberius Gavrilovich,Gnome,Wizard
 Ardent,Kalashtar,Ardent
 Suryavajra,Human,Monk
@@ -9394,7 +9394,7 @@ Ortr the Grim,human,cleric
 Kark Greenfang,yeti,druid
 Korgan Halfbeard,orc,fighter
 Kor the Ravager,orc,barbarian
-HetvŠla,dwarf,fighter
+Hetväla,dwarf,fighter
 Benevolence Ranrek,Tiefling,Cleric
 Ragdoll,Half-elf,Sorcerer
 Zelthys K'rebalba,Drow,Paladin
@@ -9432,7 +9432,7 @@ Ra'asharam Galahad,Aasimar,Paladin
 Lucius Belmont,Human,Fighter
 Dundrum Drumall,Dwarf,Bard
 "Jev ""Tinker"" Parland",Human,Barbarian/bard/cleric/druid/fighter/monk/paladin/ranger/rogue/sorcerer/warlock/wizard
-Alass‘ nos EŠrendil,elf,artificer
+Alassë nos Eärendil,elf,artificer
 Jorgan Thundershield,Dwarf,Wizard
 "Cyrus ""Raven"" Bernhardt",Human,Warlock
 Nakae Dulcama,Halfelf,Ranger
@@ -9453,7 +9453,7 @@ Cotink,High Elf,Druid
 Artifex Cruor,Human (Vampire),Wizard
 Taran Shadowmoon,Elf,Rogue
 Taran Shadowmoon,Elf,Wizard
-N/A,Elf,Warlock
+,Elf,Warlock
 Tezelin,tiefling,sorcerer 
 Hadarai Grayblade,Half-elf,Ardent
 Blackrock,Genasi,Barbarian
@@ -9571,7 +9571,7 @@ Catena Deus Rex,Water Orc,Crusader
 Gerbil,Whisper Gnome,Wizard
 Jalnox,Lesser Tiefling,Scout
 John,Human,Cleric
-Ma-Kre ÒFleshcarverÓ Thunukalathi,Goliath,Warblade
+Ma-Kre “Fleshcarver” Thunukalathi,Goliath,Warblade
 Nodro,Wild Elf,Ranger
 Zelgadis Greywords,Human,Duskblade
 Naivara,Eladrin,Wizard
@@ -9745,7 +9745,7 @@ Tashka,Gnoll,Druid
 Obsidian,Tiefling,Rogue
 Mardra,Tiefling,Ninja
 Fynolt,Human,Fighter
-Kšp,Gnome,Sorcerer
+Köp,Gnome,Sorcerer
 Leo,Human,Cleric
 Phinora,Elf,Ranger
 Atmariiva,Tiefling,Druid
@@ -9770,7 +9770,7 @@ Killabelle,Tiefling,Ranger
 Sall,Tiefling,Paladin
 Zagal,Goblin,Rogue
 Aetheldreda Kamar,Vampire,Rogue
-RexÕilaryon,Elf,Wizard
+Rex’ilaryon,Elf,Wizard
 Darzack,Dwarf,Wizard
 Borick,human,wizard
 Dignity,Tiefling,Fighter
@@ -9892,11 +9892,11 @@ Jaspar Gavorn,Dwarf,Fighter
 Adder Brith,Human,Ranger
 Margaret,Half Elf,Paladin
 Maes,Firbolg,Druid
-Lindal‘ynn Telloein,Piper,Bard
+Lindalëynn Telloein,Piper,Bard
 Nifrideil Moredhel,Drow,Cavern Sniper
 Urg,Half-orc,Bard
 Saabihah Ircaasz,Vishkanya,Alchemist
-òronox Balchrhž,Drow,Cavern Sniper
+Úronox Balchrhû,Drow,Cavern Sniper
 Ophelia Nightshade,Dhampir,Cruoromancer
 Euphemia Hilltopple,Halfling,wizard
 Cerenniel,Eladrin,Swordmage
@@ -9914,7 +9914,7 @@ Standin N. Yergarden,Gnome,Wizard
 Hunter,Human,Gunslinger
 Saradiil Velenduul,Elf,Ultimate Magus
 Baedahn Tulon,Human,Death Knight
-Thakgau ÒThunderbreakerÓ Malimgalith,Goliath,Barbarian
+Thakgau “Thunderbreaker” Malimgalith,Goliath,Barbarian
 Adva Havzaman bat Maayan Li Amichai Adara min Tolorro beyzade,Half-elf half-orc,ranger
 Riley,elf,rogue
 Dalia,elf,sorcerer
@@ -9953,7 +9953,7 @@ Alan Fangor,Half-Elf,Sorcerer
 Danielle Roseaqua,High Elf,Rogue
 Davious Bartimaeus,Yuan-Ti,Bard
 Shayna Lewis Moore,Aasimar,Sorcerer
-Adyn'Ran Na•lo,Drow,Druid
+Adyn'Ran Naïlo,Drow,Druid
 Chrome Argos 872,Warforged,Bard
 Kli'sp'reek,Aarakocra,Ranger
 Serrow Shepherd,Aarakocra,Cleric
@@ -10287,7 +10287,7 @@ Mrrow,Weretiger,Pirate
 Aleyne of Deneir,Half-elf,Cleric
 "Filucco ""Lucky"" Lakedo",Tiefling,Bard
 Corvus Vesta,Half-Elf,Ranger
-TŠysikuu,Human,Wizard
+Täysikuu,Human,Wizard
 Coronis Vesta,Elf,Witch
 Elspeth Bonewing,Elf,Wizard
 Gilgrim,Dwarf,Sorcerer
@@ -10351,7 +10351,7 @@ Suk'mah Ironshaft,Dwarf,Barbarian
 Brilliant Cloud,Tabaxi,Sorcerer
 Charles Malevolence,Tiefling,Bard/Warlock
 Lyn Hawthorn,Human,Rogue
-Fiametta Ò BailywickÓ Flickerfizzle,Gnome,Wizard
+Fiametta “ Bailywick” Flickerfizzle,Gnome,Wizard
 The Magnificent Baco,Human,Wizard
 Julius Bonchev,Shifter,Warlord
 Grigori Gonzales,Human,Wizard
@@ -10396,7 +10396,7 @@ Mizukume Jougasaki,Human,Cleric
 Mika,Half elf,Favored soul
 Dex Dark,Changeling,Rogue
 Dasen Naytis,Human,Ranger
-Pennie ÒPenÓ Pepperring,Halfling,Wizard
+Pennie “Pen” Pepperring,Halfling,Wizard
 Lick,Half-elf,Rogue
 Forsythia,Bugbear,Hexblade
 Reminiscence by Lamplight,Human,Cleric
@@ -10736,7 +10736,7 @@ Tessa Arasonte,Elf,Ranger
 T.J. Maxx,Human,Barbarian
 Brian Von Dume,Elf,Bard
 Tryst M. Valour,Halfling,Bard
-KÕVeer,Half Elf,Bard
+K’Veer,Half Elf,Bard
 Greenspear,Elf,Warrior
 Viconia Zauval,Drow,Warlock
 Gikiiwa Ghiweru,Human,Wizard
@@ -10820,7 +10820,7 @@ Layali al-Nuwayrah an-Nayyir,Djinn,Sorcerer
 May Underberry,Halfling,Monk
 Cedar Zeraheim,Half-elf,Paladin
 Disylgi Amacanfel,dwarf,paladin
-BrŽgevic,asimar,elementalist
+Brégevic,asimar,elementalist
 Melsae,Half-elf,Warlock
 Vashi M'Gura,dragonborn,paladin
 Elena,Human,Sorcerer
@@ -10843,7 +10843,7 @@ Chaidra,Human,Barbarian
 Deva,Dwarf,Barbarian
 Zara Ricotta,Human,Paladin
 Einrich Willhelm,Human,Warlock
-Sydney dÕOrmond,Dragonborn,cleric
+Sydney d’Ormond,Dragonborn,cleric
 Lis Catter,Human,Fighter
 Dansau,Halfling,Rogue
 Deianira,Human,Barbarian
@@ -10881,14 +10881,14 @@ Beuringen Apollo Antonio Paravel Apostrophe Bartimaeus Strawhat,Gnome,Monk
 Jesra Keyna,Elf,Ranger
 Rendraven al'Nevra,Eladrin,Rogue
 Rain Silvertrees,Halfling,Monk
-Pot‡mi Dane,Human,Wizard
+Potámi Dane,Human,Wizard
 Alinna Sinclaire,dhampir,rogue
 J4V6 (Jarvis),Droid,Scout / Noble
 Grimmig Von Zauberworter,Tiefling,Warlock
-Mann †r,Dwarf,Warrior
+Mann Ür,Dwarf,Warrior
 Gwrrha,Orc,Rogue
-Hala‘,Elf,Wizard/Rogue
-Zžkhwlaaey,Half-Orc,Bard
+Halaë,Elf,Wizard/Rogue
+Zûkhwlaaey,Half-Orc,Bard
 Ularia Ansfara,Tiefling,Bard
 Deepens the Night,Drow,Sorcerer
 Nikolas Wright,Dwarf,Bard
@@ -10961,7 +10961,7 @@ Dippins,Kender,Thief
 Fangar Fireborn,Dwarf,Ranger
 Aedan Dragonblade,Half-Elf,Paladin
 Goose Wainwright,Human,Gunslinger
-AzrillÕtelan Ka_ak du Khalazza,Dark elf,Bard
+Azrill’telan Ka_ak du Khalazza,Dark elf,Bard
 Reisa Cobblestump,Halfling,Cleric
 Hopskin Thuddleditch,Gnome,Illusionist-Thief
 Celia Gray,Elf,Wizard
@@ -11115,7 +11115,7 @@ Crunk,Dwarf,Barbarian
 Dunk,Dwarf,Barbarian
 Gunk,Dwarf,Barbarian
 Delzri,Half-dragon,Warrior 
-VŠn,Human,Rogue
+Vän,Human,Rogue
 Cen,Tiefling,Wizard
 Tavina,Half-Orc,Fighter
 Gronk,Goblin,Rogue
@@ -11168,7 +11168,7 @@ Felice,Were Tiger,Warrior Mage
 Asha,Half wood elf,Abjuration Wizard
 Ilira,Erudite,Enchanter
 Geoff Thunderfist,Mountain Dwarf,Paladin
-Genevieve ÒGwenÓ Duval,Gnome,Ranger
+Genevieve “Gwen” Duval,Gnome,Ranger
 Kai,Drow,Conjuration Wizard
 Agrona,God,Rogue paladin multiclasser
 Sath'fiss'ith,Yuan-ti Abomination,Horizon Walker Ranger
@@ -11199,7 +11199,7 @@ Zorgeisl Whose-Breath-Reeks-Of-Killing,dog,dog
 Stovram,Dwarf,Barbarian
 Ludmilla ,Goliath,Monk
 Aramis Staragg,Half elf,Ranger
-Ellywick ÒTwigÓ Timbers,Gnome,Paladin
+Ellywick “Twig” Timbers,Gnome,Paladin
 Maricela,Half-elf,Bard
 Sloane Nameless,Human,Fighter/ blacksmith
 Frances Skullcrusher-Smith,Half-orc,Fighter
@@ -11244,7 +11244,7 @@ Exeter Azadros,Elf,Wizard
 Borgu Deepwalker,Dwarf,Cave Druid
 Ophelius,Half-elf,Druid
 Yngvarr ,Human,Barbarian
-Orist ÒPunchyÓ McElwyn,Dwarf,Priest
+Orist “Punchy” McElwyn,Dwarf,Priest
 Artemisia,Half-elf,Sorcerer
 Dench Bepis,Half-orc,Warlock
 Beheady Lamarr,Tiefling,Rogue
@@ -11279,7 +11279,7 @@ T'Chem Ruggedhorns,Tiefling,Barbarian
 Lilith Nowhere,Tiefling,Warlock
 Ivandis Seergaze,Vampire (Human),Ranger
 Fullangr,Dwarf,Monk
-A’fe Thistledown,Corgyn,Rogue
+Aífe Thistledown,Corgyn,Rogue
 Cinnamon,Bugbear,Ranger
 Rognar Ramholder,Dwarf,Fighter
 Borg Wallace,Half-Orc ,Barbarian
@@ -11350,7 +11350,7 @@ Gremlock the Ravagee,Orc,Warlord
 "Jaan ""Jaan the Strong"" Maar",Human,Psionic Fist
 Will by Fishaggle,Halfling,Wizard
 K'thriss Drow'b,Drow,Warlock
-Ellarah selÕVadin,Human,Fighter
+Ellarah sel’Vadin,Human,Fighter
 Vantis Eredan,Tiefling,Warlock
 Helena Provencher,Human,Cleric
 Dhonea Briar,Satyr,Rogue
@@ -11485,7 +11485,7 @@ Kenji,Kitsune,Rogue
 Raijan,Samsaran,Monk
 Sir Solomon Snaffle-bit,Hagblood human,Warrior witch
 Constance Barrow,Feyblood human,Businesswoman
-Sill,Tiefling,Ranger
+Sill,Tiefling,Ranger
 Metalman,Magical construct,Strongman
 Blep,Lizardfolk,Barbarian
 Melodie Matelot,Foxfolk,Hunter
@@ -11515,8 +11515,8 @@ Duborak,Half-elf,Pirate
 Darnil,Human,Rogue
 Heftenbacht,Human,Monk
 Grommett,Dwarf,Bard
-Shautrriyah,High elf,Wizard
-SsÕNorys of Iibh,Half-dragon,Fighter
+Shautrriyah,High elf,Wizard
+Ss’Norys of Iibh,Half-dragon,Fighter
 VRRL,Redeemed Illithid ,Paladin 
 Red-Eyes,Bugbear,Ranger
 Pietr,Human ,Paladin
@@ -11571,9 +11571,9 @@ Felix De`Vaimer,human,Bard
 "Kenneth ""Blaze"" Grahm",Half-fiend half-dragon human,Battlemind
 Sasha,Human,Ranger
 Godfrey Wands of Hostfolk,human,fighter/psion
-Ma•nokh‰n the Avenger,human,barbarian
+Maïnokhân the Avenger,human,barbarian
 Cruchon Pied-de-Vigne,hobbit,hobbit
-Erwan MontŽ,human,fighter/thief
+Erwan Monté,human,fighter/thief
 Valarius,Elf,Paladin
 Farnus,Elf,Druid
 Venture,Dragonborn,Bard
@@ -11666,7 +11666,7 @@ Theodora Grinnan,Human,Druid/barbarian
 "Krauser, The Herald Of Those Before Whom Death Himself Shall Tremble",Tiefling,Bard
 Drullet Bloodninja,Gnome,Rogue
 Bear,Bear,Druid
-Ragnar Ršdung,Human (Norse Viking),Barbarian
+Ragnar Rödung,Human (Norse Viking),Barbarian
 Belzire S_n,Half-Dragon,Paladin
 Dill Bheaton,Tabaxi,Rouge
 Demevand of the Prye,Halfing,Bard
@@ -11765,9 +11765,9 @@ Inannys Amorell,Half-Elf,Sorceress
 Davenport,Gnome,Wizard
 Lucretia,Human,Wizard
 Sabria Arocaen,Half-Elf,Warlock
-TxaiÕNor,Drow,Rogue
+Txai’Nor,Drow,Rogue
 Ginny,Human,Paladin
-TxaiÕNor,Drow,Rogue
+Txai’Nor,Drow,Rogue
 Ginny,Human,Paladin
 Orryn Timbers-Nackle,Gnome,Fighter
 Aureth,Drow,Wizard
@@ -11785,7 +11785,7 @@ Demise,Deep Gnome,Wizard
 Taako,High elf,Wizard
 Gwillewyn,Dwarf,Cleric
 John Smith,Goliath,Fighter
-Email FŸckslocks,Human,Rogue
+Email Fückslocks,Human,Rogue
 Elezar Agnarrsson,Half-orc,Cleric
 David,Dwarf,Cleric
 Palomo,Half-elf,Rogue
@@ -11796,10 +11796,10 @@ Karfel,Kitsune,Fighter
 Ohan Must,Half-Orc,Warrior/Warlock
 Shifty,Half-elf,Druid
 Moon,Human,Cleric
-MŸr Stormwind,Human,Barbarian
+Mür Stormwind,Human,Barbarian
 Lykaios,Drow,Druid
 Glargh,Ogre,Barbarian
-No‘ri,Elf,Warpriest 
+Noëri,Elf,Warpriest 
 Rakanishu,Goblin,Sorcerer
 Miryim,Changeling,Sorcerer
 Armara Veritaas,Tiefling,Trickster Cleric
@@ -11910,7 +11910,7 @@ Phineas Brown,Human,Cleric
 Arn Rayne,Human,Rogue
 Draken,Dragonborn,Paladin
 Dearest,Kenku,Cleric
-Malakarth Ëima,Human,Cleric
+Malakarth Àima,Human,Cleric
 Carlin McKeegan,Dragonborn,Monk/Rogue
 Isa'rudinn,Eladrin,Wizard
 Rashaa,Tiefling,Sorceror
@@ -12022,7 +12022,7 @@ Old Snapper,Turtle,Barbarian
 Guthyre,Tiefling,Wizard
 Teddy Buchet,Halfling,Bard
 Bag of Snakes,Tabaxi,Rogue
-Garfield LasagnaÕsbane,Human,Paladin
+Garfield Lasagna’sbane,Human,Paladin
 Leonard S Pimblebrook,Halfling,Monk
 Berenice,Halfling,Bard
 Reggie,Aasimar,Sorcerer
@@ -12031,8 +12031,8 @@ Trovar,Dwarf,Barbarian
 Beth,Halfling,Warlock
 Flash Sasstwirler,Trollkin,Fellcaller 
 Ragnvald ,Half Cloud Giant,Monk
-Ydrys DÕElba,Rynnish ,Gunmage
-Silas Adžn,Tiefling,Wizard
+Ydrys D’Elba,Rynnish ,Gunmage
+Silas Adûn,Tiefling,Wizard
 Frank,Human,Fighter
 Norkin Cumberground,Halfing,bard
 Finmo Bespawl ,halfing,Rouge
@@ -12119,7 +12119,7 @@ Bilk,Bilkerson,Arcane Rogue
 Evander Slak,Draughir,Sorcerer
 Tommy Noone,Human,Pilgrim To Nowhere
 Walter the Wizard,Human,Sorcerer
-ShaÕQull OÕNull,Dragonborn,Paladin
+Sha’Qull O’Null,Dragonborn,Paladin
 Ashanti Zuhra,Human,Psion
 Kyron,Halfling,Thief
 Sir Reginald,human,paladin
@@ -12331,11 +12331,11 @@ Hanzo,Human,Ranger
 Hidan Darkblood,Dhampir,Paladin
 Methamphetamine of House Amphetamine,Kagonesti Elf,Primal Sorcerer
 Saraphina Tosscobble,Halfling,Wilder
-Klaus Old‘nburg,Human,"Wizard, Evoker"
+Klaus Oldënburg,Human,"Wizard, Evoker"
 Manfred the Magnificent,Dark Elf,Sorcerer
 Kestrel,Human,Wizard
 Iatro Adalat,Half-elf,Rogue
-Sjšgren,Half-orc,Monk
+Sjögren,Half-orc,Monk
 Bonhart,Mutant,Assasin
 Bo Borigmi,Halfling,Fighter
 Thomas Blackfriar,Human,Wizard
@@ -12559,7 +12559,7 @@ Panzel,Air Genasi,Warlock/Bard
 Tahma,Kolbold,Paladin
 Irk,Goblin,Alchemist
 Gertrude,Half Giant,Barbarian
-TiÕana,Half-Elf,Ranger
+Ti’ana,Half-Elf,Ranger
 Quinn Skamos,Elf,Cleric
 Thrack,Bugbear,Rogue
 Thomas Rivers,Half Orc,Fighter
@@ -12627,7 +12627,7 @@ Oighrig an Rhona,Tabaxi,Cleric
 Ruggin Allerton,Dwarf,Fighter 
 Allon Havenstalker,human,cleric
 Catharsis,Warforged,Divine Soul Sorcerer
-RankÕOhr,Orc,Fighter
+Rank’Ohr,Orc,Fighter
 Dave Doublehand,Half-Elf,Ranger
 Char,Chair polymorphed into a human,Monk
 Mardnab Moholier,Gnome,Monk
@@ -12752,9 +12752,9 @@ Lime Greenbottle,Halfling,Bard
 Grahdak,Goliath,Fighter
 Storm Bringer ,Human ,Sorcerer 
 Jorgen von Fahrt-Martinez the III esq.,Half-Elf,Bard
-Erid Sitheach,Half Elf,Warlock
+Erid Sitheach,Half Elf,Warlock
 Trogg,Barbarian,Human
-M’ri‘ Galanodel,Wood elf,Conjuration Wizard
+Mírië Galanodel,Wood elf,Conjuration Wizard
 Kern,Human,Fighter
 Evan Locke,Dhampir,Bard
 Torvar The Tall,Dwarf,Barbarian
@@ -12778,7 +12778,7 @@ Rhiannon Murtagh,Aasimar,Paladin
 Zarana,Human,Paladin
 Ba'Khet,Lizardfolk,Warlock
 Shavi Tod,Black Dragonborn,Vengeance Paladin
-XeÕluna-cy,Elf,Paladin
+Xe’luna-cy,Elf,Paladin
 Jensen,Half-elf,Cleric
 Talus Goldcursed,Kobold,Rogue
 Clessa Charmgrind,Gnome,Rogue
@@ -12857,13 +12857,13 @@ Tikki,Ratfolk,Gunslinger
 Krigar Sarkynyt,Human,Warblade
 Braden,Human,Warlock
 Quilana Wynnter Starhawk,Elf,Ranger
-K¾tilv’ Gunnr Crescent,Faestir,Bard
+Kætilví Gunnr Crescent,Faestir,Bard
 Kaiyan,Human,Fighter
 Scab ,Human,Barbarian
 Thakin,Goliath,Bard
 Emeric Kelly,Teifling,Warlock
 Lieutenant Jamawin Gallentara,Human,Battlemaster Fighter
-R’kv’ Skaga Crescent,Faestir,Ranger
+Ríkví Skaga Crescent,Faestir,Ranger
 Bloodbeard the Ugly,Dwarf,Rogue (Pirate)
 Lorun Seilus,Half-Elf,Rogue
 Camille Liodel,High Elf,Rogue
@@ -12872,9 +12872,9 @@ Zsuzsana Milos,Human,Paladin
 Julie D'Aubigny,Human,Bard
 Wulfrik,Human ,Fighter
 Kelsira Quilriel,Dragonborn,Fighter
-Lothbrok Ragnar’a,Dragonborn,Barbarian
+Lothbrok Ragnaría,Dragonborn,Barbarian
 Agnes Summerlow,Human,Ranger
-Sawni Nailš,Wood Elf,Druid
+Sawni Nailö,Wood Elf,Druid
 Sariel Buckman,Half- Elf,Ranger
 Elissa,Eladrin,Warlock
 Clive Dibley,Human,Warlock
@@ -12887,7 +12887,7 @@ Beardo Binbottom,dwarf,wizard
 Inviri Esscuss,Human,Monk
 Qi Pao,Slugman,Monk/Cleric
 Yeeke,Aarocka,Monk
-Vir‡irn Gildspring,Elf,Wizard
+Viráirn Gildspring,Elf,Wizard
 Bolt,Half-orc,Barbarian
 Sinadrin Galanodel,High elf,Rouge
 Firethorn,Half-Elf,Cleric
@@ -13020,7 +13020,7 @@ Ugoro the unbreakable ,Orc,Barbarian/fighter
 "Rox ""SkyRipper"" Loriendiel",Wood Elf,Rogue
 Kyne,celestial,Paladin
 Aedon Tourne,Human,Rogue
-OokÕchokÕtkaash,Kobold,Paladin/Sorcerer
+Ook’chok’tkaash,Kobold,Paladin/Sorcerer
 Okolla,Dragonborn,Fighter
 Ember,Halfling,Dragon adep 
 Alana di Rosario,Human,Wizard
@@ -13034,7 +13034,7 @@ Ivar thorgrim,Dragonborn,Barbarian
 Councilor Brega Fullhearth,Dwarf,Cleric
 Calista pain,Teifling ,Warlock 
 Aaroak,Half-Orc,Fighter
-®nti Yoon,Elf,Druid
+Ænti Yoon,Elf,Druid
 Jeff Stronginthearm,Dwarf,Sorcerer
 Bones Erick,Half-orc,Skald
 Pallos,Elf,Wizard
@@ -13044,7 +13044,7 @@ Engelica,Human,Cleric
 Gorlo the Incinerator,gnome,warlock
 Eskarin,Dragonborn,Paladin
 Maulk-Rawlk,Half-Orc,Fighter
-Virgil ÔGilÕ Coriolanus Bartholome Stanislaw Courchaine,Human,Ranger
+Virgil ‘Gil’ Coriolanus Bartholome Stanislaw Courchaine,Human,Ranger
 Delilah,Halfling,Bard
 Taelis O'Greasa,Half-Elf,Cleric
 Gath Ada,Dragonborn,Barbarian
@@ -13062,7 +13062,7 @@ LaRissa an Cef,Dragonborn,Shaman
 Kriv,Kobold,Shaman
 Tim,Half Elf,Sorceror
 Indie,Tiefling,Rogue
-ÔJungleÕ Jim Deathtrapp,Human,Ranger
+‘Jungle’ Jim Deathtrapp,Human,Ranger
 Zailyvia Delareth,Tiefling,Cleric
 Orn the Arrow,Elf,Dual Class Wizard Warrior
 Eva,Human,Sorcerer 
@@ -13078,7 +13078,7 @@ Generic,human,Cleric
 Elanys Neverwarn,Half elf,Palladin
 Meridee Whitestar,Human,Cleric
 Ophelia Bellerose,Vampire,Monk
-Jodah ÔTuddrusselÕ Flynd,Human,Rogue
+Jodah ‘Tuddrussel’ Flynd,Human,Rogue
 Lumer,Half-elf,Ranger
 Gargan MacElroy,Dwarf,Fighter
 Iceheart Splinterbone,Human ,Cleric
@@ -13324,7 +13324,7 @@ Spacecrush ,Dragonborn,Paladin
 Faeli Timberturn,Gnome,Warlock
 Singing Cricket,Tabaxi,Monk
 Elliri Morden,Human,Wizard
-Na•anthe Yllamar,Elf,Druid
+Naïanthe Yllamar,Elf,Druid
 Lupin Konigeis,Human,Ranger
 Stabbitha Blackdagger,Halfling,Rogue
 Solomon Whoreson,Half-orc,Rogue
@@ -13396,7 +13396,7 @@ Boon Fleetfoot,Halfling,Bard
 Riktig,Human,Barbarian
 Gault,Human,Ranger
 Castagon the Redbearded,Human/Werebear/Fire Elemental,Wizard 
-Mackaria ÒMackÓ Teed,Tiefling,Rogue 6/Wizard 5
+Mackaria “Mack” Teed,Tiefling,Rogue 6/Wizard 5
 Vyraz Kepeskijier,Half-dragon,Fighter
 Thokk,Half-orc,Barbarian
 Brynhildr Barrowborn,Dwarf,Warrior
@@ -13592,7 +13592,7 @@ Li Arquen,Human,Monk
 Iskorka,Human,Warlock
 Indira Durand,Elf,Wizard
 Bigby,Bugbear,Paladin
-Pi–ata Chimichanga ,Whisper Gnome,Rogue 
+Piñata Chimichanga ,Whisper Gnome,Rogue 
 Crane Cowbell,Minotaur,Bard
 Tim,Goliath,Barbarian 
 Amir Ferrand,Human,Rogue
@@ -13709,7 +13709,7 @@ Pleochroism,tiefling,wizard
 Mabrid,Kobold,Wizard
 Rathkor,Tiefling,Bard
 Arvin,Half-elf,Warrior
-Dolly Exaci—n,Human,Paladin
+Dolly Exación,Human,Paladin
 Helbeccnah,Human,Warlock
 Juvenis Mortem,Elf,Cleric
 Supreme Fluffy,Dwarf,Rogue
@@ -13740,7 +13740,7 @@ Sylian Shecil,Elf,Ranger
 Hamilton,Half-Elf,Bard
 Arek Dran,Human,Warrior
 Tharalazon Dran,Elf,Wizard
-Soveliss Na•lo,Wood elf,Monk
+Soveliss Naïlo,Wood elf,Monk
 Sylyana Gonoril Sahandrianen,Half-Elf,Mage/Thief
 Feathermane,Human,Barbarian
 Stonegrip deathhammer,Dwarf,Warrior
@@ -13909,11 +13909,11 @@ Sunny Andersdottir,Halfling,Necromancer
 Luther Lonestar,Half-Elf,Fighter
 Emryck Dunkan,Human,Infernal Sorcerer
 Rohan Grey,Human,Cleric
-Zillah OÕFreal,Tabaxi,Rogue
+Zillah O’Freal,Tabaxi,Rogue
 Lark Irienys,Tiefling,Bard
 Miurik Jangles,Ratfolk,Alchemist
 Stardew,Elf,Ranger
-Skhalon Doshu‰n Nagor,Half-Elf,Cleric (Sylvanus cleric from Forgotten Realms)
+Skhalon Doshuân Nagor,Half-Elf,Cleric (Sylvanus cleric from Forgotten Realms)
 Talon,Tiefling,Warlock
 Zai,Shifter,Cleric
 Cass,Warforged ,Swordsage
@@ -13999,8 +13999,8 @@ Kaiwren Stormwalker,High elf,Druid
 Tyyaash,Half elf,Druid
 Xenartha,Dragonborn,Wizard
 Rosaline Wolf,Human,Bard
-LŽath Mc Leana’,halfling,Bard
-ZŽpherus ,Genasi,warlock
+Léath Mc Leanaí,halfling,Bard
+Zépherus ,Genasi,warlock
 davros of skaro,elf,wizard
 Danya Darkheart,Half-elf,Ranger
 Herald of the dwarves,dwarf,bard/fighter 
@@ -14031,7 +14031,7 @@ Cricket,Wood Elf,Monk
 Bjorr Molestout,Dwarf,Cleric
 Zengen Tycho,Kitsune,Monk
 Norr,Wood Elf,Ranger
-KÕNUX,Goblin,Storm Herald Barbarian
+K’NUX,Goblin,Storm Herald Barbarian
 Tilaine,Hig elf,Bard
 Daidra,Dwarf,Scout
 Sart,Human,Wizard
@@ -14151,7 +14151,7 @@ King Bivyen of the Marchlands,Half-Orc,Warpriest
 Takis,human,monk
 Traeliorn Yllarona,Half-Elf,Crossbowman
 Reverend Chaff,human,barbarian
-Daryin YÕolan Larandis,elf,sorcerer
+Daryin Y’olan Larandis,elf,sorcerer
 Tade Dorambi,Wood Elf,Monk
 Braden Adric Baracus,human,wizard
 Kade Galondel,Human,Fighter
@@ -14332,7 +14332,7 @@ Din Heckstomper,Goblin,Oracle
 Nacho Buonocho,Grippli,Wrestler
 Old Man,Human,Planeswalker
 Veda,Human,Alchemist
-KÕThale Sel,Dragonborn,Warlock
+K’Thale Sel,Dragonborn,Warlock
 Oriana Highgrove,Human,Paladin
 Auriel Zulal,Aasimar,Warlock
 Vicktor Valkov,Human,Rogue
@@ -14546,7 +14546,7 @@ Thibeg Krusher ,Half orc,Sorcerer
 Durin Sandhand,Dwarf,Barbarian
 Quick Ben,Human,Wizard 
 Tulgan ,Half-Orc,Barbarian
-Gl”m Woodenlaughter,Dwarf,Cleric
+Glîm Woodenlaughter,Dwarf,Cleric
 Larkin,Elf,Bard
 Pal A. Din,Human,Paladin
 Keet Dynamo Pitywoe Blunderbuss Morguefrown Freebird Ragecool Pollennose,Kenku,Factotum
@@ -14601,8 +14601,8 @@ Flint,Ibixian,Fighter
 "Henri Randolf ""Pinky"" deBorge",Human,Bard
 Qerasija of Knossos,Human,Oracle
 Glee,Dwarf,Cleric
-"Shara ""Shart’a"" Tidon",Maenad,Sorcerer
-Kilgarm Daeržn,Wild Elf Half-Fiend,Sorcerer
+"Shara ""Shartía"" Tidon",Maenad,Sorcerer
+Kilgarm Daerûn,Wild Elf Half-Fiend,Sorcerer
 Omnus,Half-Elf,All at level 1 each
 Berit Firebrand,Human,"Wizard, Paladin, Eldritch Knight"
 DeHaird Visavenchance,Human,Fighter
@@ -14612,7 +14612,7 @@ Wren ,Human,Rogue
 Cassandra Laurel Hannigan,Human,"Sorcerer, Rogue"
 Corporal Aedrian Tasselbow,Half-Elf,Scout
 Absum the Oathbreaker,Human,Paladin
-Grutchen Oršg,Dwarf,Fighter
+Grutchen Orög,Dwarf,Fighter
 6-2,Human,Rogue
 Erigarm,Elan,Psychic Warrior
 Valandil Elensar,Elf,Monk
@@ -14624,7 +14624,7 @@ Aleihan,Half-Elf,Fighter
 Darion,Human,Paladin
 Keth,Half-Ogre,Barbarian
 Vola Thokk,Half-Orc,Barbarian
-"Aurella ""Elle"" Baro–a",Half-Elf,Bard
+"Aurella ""Elle"" Baroña",Half-Elf,Bard
 Orog,Half-Ogre,Advocate
 "Llowar ""Laeros"" Haltearn Rinstack",Human,"Wizard, Psion, Fighter"
 Hagretta,Goliath,Barbarian
@@ -14669,7 +14669,7 @@ Shot,Kenku,Gunslinger
 Daisy,Halfling,Cleric
 Dirk Ungart,Dwarf,Fighter
 Figgin Pen,Gnome,Rogue
-Frizzy doÕurden,Dark elf,Ranger
+Frizzy do’urden,Dark elf,Ranger
 "Bannon, Son of Berg",Human,Wilder
 Khaliq,Harssaf,"Horizon Walker, Ranger"
 Xyzyx,Tortle,Druid
@@ -14699,7 +14699,7 @@ Mek Leth'Osh,Half-Orc,Fighter
 Wu Sansi,Nezumi,Monk
 Wei,Spirit Folk,Scout
 Tiqvah,Tiefling ,Rogue
-Ruall Q’ce,Human,Fighter
+Ruall Qíce,Human,Fighter
 Buck,Maenad,Fighter
 Wolfram Slombom,Human,Ranger
 Communist Pete,Orc,Bard
@@ -14714,8 +14714,8 @@ Jillian 'Scattermind Jilly' Tosscobble,Halfling ,Wizard
 """Zenny"" Zenyatta",Half-Elf,Rogue
 Winter,Razorclaw shifter,Druid
 Jillian 'Scattermind Jilly' Tosscobble,Halfling ,Wizard
-Fœ g_ xi_ng ying,Catfolk,Bard
-Sker êshvalr,Dwarf,Druid
+Fú g_ xi_ng ying,Catfolk,Bard
+Sker Íshvalr,Dwarf,Druid
 Daenar De'Nart ,dark elf,planes explorer
 Morgarren,Human,Wizard
 Loulric Kevens d'Jorasco,Halfling,Shaman
@@ -14748,7 +14748,7 @@ Marirua Raspendale,Elf,Bard
 Langdedrosa Cyanwrath,Dragonborn,Fighter
 Kumanyika,Human,Fighter
 Blasphemera,Eldrazi elf,Rogue
-Gunnar Bj¿rnsson,Human,Shapeshifter
+Gunnar Bjørnsson,Human,Shapeshifter
 Eideard Bainsley,Human,Alchemist
 Sable Whisperstride,Halfling,Thief
 Boltikar,Human,Wizard
@@ -15138,7 +15138,7 @@ Sunny,Kenku,Monk
 Beau Bonnet,Wood elf,Ranger
 Bree Goodbarrel,Lightfoot Halfing,Rouge
 Euzalia,tiefling,sorcerer
-Myles Jšnn,Dwarf,Fighter
+Myles Jönn,Dwarf,Fighter
 Lynormi Foreldrelos,Tiefling,Sorcerer
 Oenel Gnorel,Half Orc-Half Elf,Bard
 Helm Petrick,human,bard
@@ -15265,7 +15265,7 @@ Noni Fivespice,Halfling,Wizard
 D'avid Wo'aung,Human,Barbarian
 Bok Choi,Half-elf,Paladin
 Morgan Scheppen,Human,Warlock
-ZakÕka Brega,Goblin,Gunslinger
+Zak’ka Brega,Goblin,Gunslinger
 Leo Javelen,human,fighter
 Drake the Daredevil,aasimar,warpriest
 Ingvar the Wolfskin,human,fighter
@@ -15288,7 +15288,7 @@ Roax,Human,Paladin
 glarf,orc,bard
 Bibkin Honeycrumpet,Halfling,Bard
 Renji,human,assassin 
-Cefin Na•lo,Half-Elf,Bard
+Cefin Naïlo,Half-Elf,Bard
 Walschud Spellweaver,Svirfneblin,Wizard
 Cheinara Wraithwalker,Elf,Monk
 Flint Abernathy,Abyssal Demigod,Sorcerer by all technicalities 
@@ -15314,7 +15314,7 @@ Aliine Bottom,Human,Warlock
 Bodhran Otomani,Human,Rogue
 Atticus Tue,Dwarf Ð Metamorphing  into Human,Eldritch Knight
 Azgul Butcher,Seedling,Arcanist
-Monach’,Tiefling,Artificer
+Monachí,Tiefling,Artificer
 Quinn Feredir,Elf,Fighter
 Morthos Torment,Tiefling,Bard
 Ulrich Dex,Gnome,Paladin
@@ -15452,7 +15452,7 @@ Illindith Dro Darksun,Drow,Bard
 Dakar,Half-Elf,Ranger
 Harvone Belle,Human,Cleric
 Cybele Deepwood,Tiefling,Druid
-Corban Plashold”r,Half Elf,Druid
+Corban Plasholdîr,Half Elf,Druid
 Dougal McDougal,Human,Wizard
 Tallyroux Osst,Human,Rogue
 Grimthar Fistborn,Half-Orc,Barbarian
@@ -15562,7 +15562,7 @@ Beauregard,human,monk
 Fjord,half-orc,warlock
 Mollymauk,tiefling,blood hunter
 Yasha,aasimar,barbarian
-ShakŠste,human,cleric
+Shakäste,human,cleric
 Dee,human,fighter
 Mordenkainen,human,wizard
 Miranda Moonwhisper,elf,druid
@@ -15657,7 +15657,7 @@ Nami-Tsu,Human,Monk
 Lorella,Eladrin,Rogue
 Bosnir Pale Sky,Firbolg,Druid
 Betelgueuse,Orc,Shaman
-®sther Fleurtail,Aasimar,Cleric 
+Æsther Fleurtail,Aasimar,Cleric 
 Dagoth Barkscale,Dragonborn,Druid
 "Carron ""The Spider"" ",Tengu,Witch
 Runamok,Half-Orc,Ranger 
@@ -15724,7 +15724,7 @@ Mason Stokeworth,Human,Fighter (Eldritch Knight)
 Breonna Mistbearer,Dhampir,Paladin
 Morgan,Human,Bounty Hunter
 Surk,Goblin,Paladin
-R‡mon de Santiago y Machado,Human,Duellist
+Rámon de Santiago y Machado,Human,Duellist
 Names,Half-elf,Mystic
 Mytral,Human,Warrior
 Eldesendis,Feygouched,Factotum
@@ -15747,7 +15747,7 @@ Sharhnakh,Orc,Shaman
 Faline Weir,Human,Cleric 
 Vladimira,Dhampir,Rogue
 Kalere,Tiefling,Paladin
-RosŽlara,Half-Elf,Bard
+Rosélara,Half-Elf,Bard
 Bryn,Lao,Monk
 Lilkaria,Tiefling,Cleric
 Keth,Lao,Monk
@@ -15936,7 +15936,7 @@ Sorin Aktherai Jacobi,Wood Elf,Sorcerer
 Rhogar Jacobi,Dragonborn,Barbarian
 Bard Jacobi,Kitsune,Bard 
 Valanthe Sepret,Half Elf,Cleric
-Nestadoneth Celgwin,Half Elf,Rogue
+Nestadoneth Celgwin,Half Elf,Rogue
 Merrick,Human,Wizard
 Scred,Goblin,Barbarian
 Laurencia Ekmaa ,Spider Animus,Druid
@@ -15948,11 +15948,11 @@ Nela ,Kobold,Sorcerer
 EA,Tiefline,Bard
 Alaina,Dwarf,Cleric
 Lumme Karanta,Human,Knight
-VaxÕildan Vessar,Half Elf ,Rogue
+Vax’ildan Vessar,Half Elf ,Rogue
 Illyana,Gnome,Druid
-VexÕaliha Vessar,Half Elf ,Ranger
+Vex’aliha Vessar,Half Elf ,Ranger
 Grog Strongjaw,Goliath,Barbarian
-NÕtalhi Lapis Stonehewn,Earth Genasi ,Cleric
+N’talhi Lapis Stonehewn,Earth Genasi ,Cleric
 Tamana Chandra,Hooman,Sorcerer
 Pandjed,Dragonborn,Paladin
 Eupraxia the Maggot,Strix,Hunter
@@ -16111,7 +16111,7 @@ Caliban,Dragonborn,Paladin
 Rembrandt,Human,Rogue
 Gandaar Deer,Human,Ranger
 Back biter,Dragonborn,Fighter
-MyrcŽ,Human,Monk
+Myrcé,Human,Monk
 Greybeard,Dwarf,Fighter
 Zoejayne,Half-Orc,Barbarian
 Hadaeche Budiheeldit,Dragonborn,Cleric
@@ -16133,7 +16133,7 @@ Declan beck,Human,Warlock
 Jalt Jessren Zaveri,Dragonborn,Paladin
 Turgak Fisher,Half-orc,Cleric
 Unread Book,Tabaxi,Rogue
-Thamior Meliamn‘,Wood elf,Druid
+Thamior Meliamnë,Wood elf,Druid
 Holg,Half-Orc,Barbarian Fighter
 Arnthor,Human,Barbarian 
 Iona Mourningstrike,Assimar,Cleric
@@ -16262,7 +16262,7 @@ Lester Boo,Tiefling,Monk
 Acelarina,Human,Ranger
 Juniper Bedmoss,Halfling,Bard
 Duncan Doogalberrie,Halfling,Thief
-Rand DoÕOdon,Human,Wizard
+Rand Do’Odon,Human,Wizard
 Ashling Maccon,Half-Elf,Rogue
 Shagrot Unpreadator,Orc,Shaman
 Erindessa Dundragon,Human,Cleric
@@ -16298,7 +16298,7 @@ Ben Affleck,Halfling,Rogue
 Asian Micky Rooney,Half orc,Fighter
 Jeremiah Boondoggle,Halfling,Fighter
 Arburus the Eternal One,Human,Wizard
-Advalur L•adon,Wood Elf,Rogue
+Advalur Lïadon,Wood Elf,Rogue
 Grognar,half-orc,fighter
 Cage-olas,Human,Bard
 Lumen,Human,paladin
@@ -16346,7 +16346,7 @@ Drazul - Lord of Forbidden Knowledge,Naenkrau Illumian,Archivist
 Raul Stoneforge,Dwarf,Druid
 Arizma Thelmin,Human,Monk
 Jakka,Lupine,Paladin
-BjŸrk Slabchest,Goliath,Bard
+Bjürk Slabchest,Goliath,Bard
 Ruz ,Changeling ,Bard
 Ahz Moor,Goliath,Druid
 Ruth the Lesser,Human,Fighter
@@ -16355,7 +16355,7 @@ Grimmswold Bronzefoot,Dwarf,Fighter
 Kert,Half-Orc,Paladin
 Petawick,Firbolg,Druid
 Hande Maaritsdottir,Aasimar,Warlock
-D’oltas ,Goliath,Paladin
+Díoltas ,Goliath,Paladin
 Jakar,Human,Cleric
 Alister Gilead,Human,Fighter
 Takumo,Human,Bard
@@ -16399,9 +16399,9 @@ Queck Ranor,Gnome,Wizard
 Zigdig Ironfoot,Halfling,Rogue
 Miri Evenwood,Human,Monk
 Deck,Tiefling,Sorcerer
-Gimble ÒPotsÓ Beren ,Rock Gnome,Wizard
+Gimble “Pots” Beren ,Rock Gnome,Wizard
 Luvernia Butmotor,orc,bard
-Lilli ÒScrapsÓ Nackle,Forest Gnome,Monk
+Lilli “Scraps” Nackle,Forest Gnome,Monk
 Irori,Aasimar,Cleric
 "Tor'maan ""The Hammer"" Stonemason",Dwarf,Barbarian/wizard
 Treedor,Hobgoblin,Slayer
@@ -16422,7 +16422,7 @@ Shell,Tortle,Barbarian
 Sar-a-zon,Human,Wizard
 Svenny Two-Spears,Human,Fighter
 Locke,Half-Elf,Bard
-®thelbain,Half-Elf,Warlock
+Æthelbain,Half-Elf,Warlock
 Ral Krypta,Gnome,Bard
 Ogda,Half-Orc,Barbarian
 Orek Thul,Human,Psychic
@@ -16474,7 +16474,7 @@ The Watchmaker,Human,Wizard
 Toruf Ironbound,Dwarf,Bard / Fighter
 Godred Crovan,Human,Rogue
 Eirkas,Half elf,Ranger
-Dr. Dok Tšhr,Tabaxi,Rogue
+Dr. Dok Töhr,Tabaxi,Rogue
 Nelkir,Half-elf,Warlock
 Mike,Human,Fighter
 Thorgan Stonejaw,Dwarf,Fighter
@@ -16558,7 +16558,7 @@ Glade Dawnbringer,Half Orc,Cleric
 Baldrun,Dwarf,Paladin
 Warbin Gimbalsprocket,Gnome,Artificer
 Urist McIronbeard,Dwarf,barbarian
-Mel˜dy,Half-elf,Ranger
+Melòdy,Half-elf,Ranger
 Modsognir,Dwarf,Bard
 Garem Stan,Human,Ranger
 Shaakos,Tiefling,Rogue
@@ -16637,7 +16637,7 @@ Pandora,Tiefling,Sorcerer
 Rikkiu,Kenku,Warlock
 SirKeylord,Human,Battlemage
 Kirboon,Human,Ranger
-Celia NŠilo,Half-elf,Wizard
+Celia Näilo,Half-elf,Wizard
 Sora Aussir,Dragonborn,Paladin
 Ismael,Teifling,Sorcerer
 Ggurl,Human,Monk
@@ -16701,7 +16701,7 @@ Hoodoo Brown,Human,Dark Cleric
 Rusty,Warforge ,Fighter
 Raegel Miravaldi-Faeleth,Half elf,Druid
 Zozaria,Half Elf,Fighter 
-òna,Selkie,Wizard
+Úna,Selkie,Wizard
 Horus Bertoldt,Halfling,Cleric
 Dregful,Elf,Wizard
 Mariska,Human,Ranger
@@ -16722,7 +16722,7 @@ Charilaos,Human,Priest
 Ashok Kartik,Half-elf,Mystic
 Meloch,Tiefling,Druid
 Thava,Dragonborn,Ranger
-Edric Ragl¾ca,Goliath,Paladin
+Edric Raglæca,Goliath,Paladin
 Vykha,Half-Orc,Fighter
 Nadezhda,Human,Oracle
 Tubote Fobrik,Tiefling,Druid
@@ -16734,13 +16734,13 @@ Abe,Aquarian,Mystic
 Relf yellomoon,Human,Wizard
 Naivara Galanodel,Elf,Druid
 Cider Bladeskipper,Halfling,Rogue
-AlahŸten MacBubanatten,Dwarf,Ranger
+Alahüten MacBubanatten,Dwarf,Ranger
 Arathyn Duskblade,Elf,Cleric
 Barbarik,Half-orc,Barbarian
 Shadowreaver,Tiefling,Warlock
 Fenthwick Fizzlebang,Gnome,Artificer
 Erthor Vyshaan AKA Lucky Longshot,Gold ELF,Fighter thief
-DŸmrhali Vezhero,Tiefling,Monk
+Dümrhali Vezhero,Tiefling,Monk
 Juditha Gloomhill,Halfling,Rogue
 Keechka,Tengu,Ranger
 Driven mar'vel,Half-human-storm gaint,Swordmage
@@ -16774,7 +16774,7 @@ Tekhran Stryfhart,Human,Fighter
 Acee D'see,Half elf,Bard
 Garret Underbough,Halfling,Rogue
 Despair,Tiefling,Sorcerer
-Salvador ÒGiganteÓ Zapata,Halfling,Rogue
+Salvador “Gigante” Zapata,Halfling,Rogue
 Mera Frostmane,Dragonborn,Cleric
 Zora,Half-elf,Monk
 Malaren,half drow,paladin
@@ -16800,7 +16800,7 @@ Reinbach,Half Elf,Warrior-Rogue
 Fraesil,Elf,Wizard
 Gavrail,Human,Bard
 Garth Littletree,Hill Dwarf,Warlock
-MÕUndra,Half orc,Fighter
+M’Undra,Half orc,Fighter
 Artemesia,Elf,Druid
 Jael,Half elf,Rogue
 Glenna Byriver,Halfling,Bard
@@ -16817,7 +16817,7 @@ Calliope,Triton,Sorcerer
 Meatball Queeb,Tabaxi,Monk
 Diamond in the Rough,Tabaxi,Fighter
 Yo Dah,Goblin,Cleric
-Fl—ki Vilger_arson,Human,Barbarian
+Flóki Vilger_arson,Human,Barbarian
 Torrent,Shifter,Ranger
 Horrace Haxalot,Human,Knight
 Black Mage Evilwizardington,Human,Wizard
@@ -16842,7 +16842,7 @@ Alena Milner,human,rogue
 Theodora Sharpe,human,wizard
 Po Lester-Shultz,Half Elf,Rogue
 Lyanna Mormont,Half-Elf,Barbarian
-Rena Ma•lys,Half elf,Druid
+Rena Maïlys,Half elf,Druid
 "C, Storyteller of Lliera",Aasimar,Cleric / Bard
 Talisian Avard Harl,Half-Elf,Fighter
  Tabitha of the Tabby,Tabaxi,Wizard
@@ -16888,7 +16888,7 @@ Rowan Ashwind,Halfling,Ranger
 Asmund Tempest,Asamir,Paladin
 Tybalt Eastwander,Dwarf,Cleric
 Chain Grit,Human,Cleric
-Eun Ant—ran,Tiefling ,Sorcerer
+Eun Antóran,Tiefling ,Sorcerer
 Ceona Haloren,Human,Cleric
 Tira Quartermane,Halfling,Cleric 
 Gealok,Goliath,Monk
@@ -16896,7 +16896,7 @@ Tobithi Beanitob,Human,Cleric
 Troth,Tiefling ,Paladin 
 Verthag,Half-orc,Barbarian
 Karzug,Half-orc,Druid
-TinbrŽ,Mousefolk,Ranger
+Tinbré,Mousefolk,Ranger
 Woe,Tiefling,Barbarian
 Freyja,Half-elf,Rogue
 Illaycia d'Tagnia,Half-Elf,Ranger
@@ -16934,7 +16934,7 @@ Glass Break,Kenku,Fighter
 Owl Hoot,Kenku,Ranger
 Eisiji,Werewolf,Rogue
 Fian Halfroot,Half-elf,Druid
-JŸrin,Dwarf,Fighter
+Jürin,Dwarf,Fighter
 Fenhorn treestrider,Elf,Ranger-rougue
 Mariska Hargitay,Tiefling,Warlock
 Sutha,Half-orc,Bard
@@ -17141,7 +17141,7 @@ Dinuneth,Elf,Druid
 Mattias ,Drow,Rogue
 Lilith,Elf,Witch
 Ulslime,Human,Wizard
-KonÕJi,Half orc,Cleric
+Kon’Ji,Half orc,Cleric
 Lucinda,Dragonborn,Barbarian
 Phann Starflower,Elf,Wizard
 Belan Stormwind,Human,Ranger
@@ -17185,7 +17185,7 @@ Kefenste,Dragonborn,Monk
 Mookey Highchurch,Dwarf,"Fighter, but thinks he's a cleric"
 Dashing Jack Daft,Human,Bard
 Krump,Half-Orc,Barbarian
-Ciar‡n,Elf,Ranger
+Ciarán,Elf,Ranger
 Lyra Windwinder,Air Genasi,Druid
 Grimfart Deathsiege,Dwarf,Monk
 Silvertree of Clan Wild Forest,Tabaxi,Druid
@@ -17298,7 +17298,7 @@ Karegak,Half-orc,Warlock
 Kazimir,Half-elf,Monk
 Yoda,Gnome,Wizard/Rogue
 Sati,Human,Warlock
-A‘tus Cordova,Half-orc,Cavalier
+Aëtus Cordova,Half-orc,Cavalier
 Forget-Me-Not,Tiefling,Warlock
 O,Half-orc,Monk
 O,Half-orc,Monk
@@ -17334,7 +17334,7 @@ Birch,Arboren,Ranger
 Faeryl Dryaalis,Drow,Oathbreaker Paladin
 Imogen Blackfyre,Human,Paladin
 Marnie Dreadmanta ,Tiefling ,Swashbuckler 
-Stšr Hornraven,Human,Ranger
+Stör Hornraven,Human,Ranger
 Leflian Oakhollow,Sludge Elf,Wayfarer
 Zook Folkor,Gnome,Rogue
 Ea,Tiefling,Druid
@@ -17348,7 +17348,7 @@ Helgi Wolf-Runner,Human,Ranger
 Constantine Augustus,Aasimar,Paladin
 Gawain,Human,Paladin
 Moridin,Tiefling,Wizard
-Dragomir Nov‡k,Human (Varisian),Ustalavic Duelist
+Dragomir Novák,Human (Varisian),Ustalavic Duelist
 Wulfgar,Human,Barbarian
 Vivek,Naga,Scaled Fist Monk
 Bael,Human,Barbarian
@@ -17448,7 +17448,7 @@ Professor Geth Brightwood,Bugbear,Fighter
 The Golem,Elf,Rogue
 Cuckoo Burra,Aarakocra,Monk
 Enless,Dragonborn,Paladin
-Bolmar Oakenshield ,Dwarf ,Worrior 
+Bolmar Oakenshield ,Dwarf ,Worrior 
 Stark Frostbeard,Half-Dwarf,Cleric
 Stog the Devourer,Half-Orc,Warlock
 lumptorious Lumpround,Halfling,Bard
@@ -17487,7 +17487,7 @@ Kethra,Half-Elf,Druid
 Lilia Khutulun,Human,Monk
 Rashida Alyad,Human,Cleric
 Danielle,Human,Paladin
-Jasper ÒQuickDrawÓ savage,Eladrin,Warlock
+Jasper “QuickDraw” savage,Eladrin,Warlock
 Brog,Halforc,Barbarian
 Ratling Bitsy Sprout Lil Squirt Tiny Pidge Runt Pearl Kit Nyx Squirrel Aster Drip Kicsi Chatterbox Imp Peanut Mite Squeeky,Gnome,Wizard Rogue
 Constantine Lee Underfoot,Human,Rogue
@@ -17644,7 +17644,7 @@ Turnip,Goliath,Barbarian
 Mardonius von Dietrich,Human,Cleric
 Ansel,Goliath,Barbarian
 Hughug,Goblin,Ranger
-Ršermyr Llewellyn Ap-Festiniog,Dwarf,Druid
+Röermyr Llewellyn Ap-Festiniog,Dwarf,Druid
 rugga'Hug,Goblin,Warlock
 Flavio Butterfingers,Human,Bard
 Delilah,Genasi,Druid
@@ -17709,7 +17709,7 @@ Sir Dante Wren,Human,Paladin
 BEAROTAUR,Minotaur,Barbarian-Fighter
 Ash the Godhand,Human,Paladin
 Panichi ,Yuan-Ti,Bard
-Lachesis ÒBeholdenÓ,Teifling,Sorcerer
+Lachesis “Beholden”,Teifling,Sorcerer
 Helm Evenwood,Human,Fighter
 Bosco Bartilomo,Human,Bard
 Ballion Crazlowe,Gnome,Wizard
@@ -17876,7 +17876,7 @@ Therisa Swiftspell,Elf,Cleric
 Mater,Halfling,Rogue
 Tarhorn,Tiefling,Rogue
 Lithor Onyxshield,Dwarf,Cleric
-RenÕveshal,Half-Dragon,Fighter
+Ren’veshal,Half-Dragon,Fighter
 Saraquel,Half elf,Fighter/wizard
 Shu the magic man,Gnome,Assasin 
 Magnus Maehthic,Gnome ,Artificer
@@ -18096,7 +18096,7 @@ Mugwort Pigsqueak,Gnome,Warlock
 Kynodonta Muhktali,half-orc,Barbarian
 Rishda Tarkaan,Half-elf,Druid
 "Melv ""the peep"" cockworn",Human,Druid
-ZŽ do caix‹o,Human,Wizard
+Zé do caixão,Human,Wizard
 Vento do norte,Human,Bard
 Moszo,Yuanti pureblood (xanathar's guide to everything ,Warlock
 Bjorn,Human,Warlock
@@ -18105,7 +18105,7 @@ Sazamar,Aazimar,Warlock
 Ivan,Human,Monk
 Sam,Half-elf,Sorcerer 
 Lakshmi,Human,Wizard
-J¿rn,Dragonborn,Bard
+Jørn,Dragonborn,Bard
 Bang Darzi,Kenku,Fighter
 Jerim Rembrant,Human,Cleric
 Walter,Half-Orc,Barbarian
@@ -18244,7 +18244,7 @@ Pyke Galrin,Human,Paladin
 Phasont,Human,Paladin
 Dundar Zincsphincter,Dwarf,Cleric
 Tormilav Radmir,Wood Elf,Cleric/Rogue/Monk
-MŸgonar,Half-Elf,Paladin/Warlock
+Mügonar,Half-Elf,Paladin/Warlock
 Rexxie,human,bard
 Steve Bennett,Dwarf,Fighter
 Justin Timberlake,Half-Elf,Warlock
@@ -18277,7 +18277,7 @@ Logain,Dragonborn,Warlock
 Thrak,Orc,Barbarian
 Yates,Human,Bard
 Grimold Plainsong,Human,Bard
-ÔIm,Half orc,Fighter
+‘Im,Half orc,Fighter
 Igrain Pebble,Human,Barbarian
 Leuflinger Adrigost,Human,Cleric/Wizard Multiclass
 Baaz,Kobold,Paladin
@@ -18332,7 +18332,7 @@ Maorc,Orc,Sorcerer
 Frelja Stronginthearm,Shield Dwarf,Fighter
 The First and Last Gerhard Grimmnmnusic The First,Human,Bard
 Propagator,Warforged,Druid
-VieÕdorŽe Shukra,Aasimar,Warlock
+Vie’dorée Shukra,Aasimar,Warlock
 Toki Treehaze,Halfling,Druid
 Rob Zimbo Nalyd ,Halfling,Bard
 Boorab Widepad M'ginty Thorntussle,halfling,wizard
@@ -18401,7 +18401,7 @@ Solomon,Human,Paladin
 Valathe xiloscient,High-Elf,Wizard
 Barnaby,Human,Pirate
 Vala Redbrow,Aasimar,Warlock
-Guillermo Mart’n,Human,Rogue
+Guillermo Martín,Human,Rogue
 Khaled Shams al-Thrane,human,cleric
 Sigmund,Tiefling,Paladin
 runt,half-orc,barbarian
@@ -18425,7 +18425,7 @@ Skylar Johnson,Half-Orc,Monk
 THE BOULDER,Goliath,Barbarian
 Drom Ironjaw,Dwarf,Ranger
 Ragnar Anvilson,Dwarf,Cleric
-Hannelore PŠl-Skynn-Ghrurrh,Human,Psion
+Hannelore Päl-Skynn-Ghrurrh,Human,Psion
 Kaylonn Redwing,Thiefling,Warlock
 Allison McSwilligan,Half-Elf,Bard
 Friar Butters,Halfling,Monk
@@ -18522,11 +18522,11 @@ Antonay Jones,Human,Bard
 Draz'na'har Payne,Human,Warlock (The Undying)
 Darius Rake,Elf,Fighter (Eldritch Knight)
 Quercus Alba,Dryad,Druid (Circle of the Land)
-Se‡ncaithe,Halfling,Bard
+Seáncaithe,Halfling,Bard
 Glow of the Sun,Tabaxi,Monk
 Gragnak 42nd,Orc,Barbarian
 Sarkesh Nune,Aarakocra,Monk
-Oddur hˆlfskeggi,Bugbear,Bard
+Oddur hàlfskeggi,Bugbear,Bard
 Dreckir Rodark,Human,Fighter
 Sir Jeffrey,Human,Fighter
 Bladud,Halfling,Wizard
@@ -18586,7 +18586,7 @@ Kevenas Lightshield,Half-Elf ,Paladin
 Vahridan aurix Igan ,Dragonborn ,Medic Knight 
 Bronn Mervis,Dwarf,Cleric 
 Solique,Nightling Elf,Rogue
-Jandar Na•lo,Half-elf,Warlock
+Jandar Naïlo,Half-elf,Warlock
 Fallance Glitterbird,eladrin,wizard
 "Shar Taw, the Lightning Blade",human,mageblade
 Fenthwick Fizzlebang,Gnome,Wizard
@@ -18684,7 +18684,7 @@ Thorn,Longtooth Shifter,Warden
 Zachariah Wildblade,half elf,fighter/wizard
 Vall-Doom,Human,Eldritch Knight
 Tobra,Spellscale,fighter
-TinnÕwel Ashbrew,Half-Elf,Monk/Bard
+Tinn’wel Ashbrew,Half-Elf,Monk/Bard
 Packin Longwood,Elf,Bard
 Qog,Half orc,Monk
 Amber Miraleth,Half Elf,Fighter
@@ -18693,7 +18693,7 @@ Chester Milledge,half-orc,Cleric
 Gene Marvin,Half elf,"Wizard, Necromancer"
 Tana Timbers,Gnome,Rogue
 Athalf Frarson,Half-Elf,Paladin
-Phineas ÒSqueakyÓ Flickwicker,Gnome,Sorcerer
+Phineas “Squeaky” Flickwicker,Gnome,Sorcerer
 Zarmodeus Godslayer,tiefling,paladin
 Jonderlou Crump,human,fighter
 Magistra Ludi Inglorian,high elven,wizard
@@ -18789,8 +18789,8 @@ Hazel Underwood,halfling,warlock
 Deneb,Elf,Wizard
 Lorian Frey,Human,Fighter
 Father Veadil,Half Orc,Paladin
-Ilœvatar,Aasimar,Ranger
-N'Rala•,Human,Cleric
+Ilúvatar,Aasimar,Ranger
+N'Ralaï,Human,Cleric
 Gladdin Albar,Dwarf,Bard
 "Kyle ""The Yellow Dart"" Smith",Gnome,Rogue
 SOjourn,Tiefling,Warlock
@@ -18815,7 +18815,7 @@ Lavuir Prash,Dragonborn,Sorcerer
 Darius Tarbuck,human,ranger
 Montresor Goodfellow,Halfling,Cleric
 Daggett Mongrel,Human,Fighter
-TessŽle Woodkin,half-orc,cleric
+Tesséle Woodkin,half-orc,cleric
 Lunarrow,MoonElf,Cleric
 Dorian Spelltide,Human,Warmage
 Chagran Conniferim,Human ???,Sorcerer
@@ -18866,7 +18866,7 @@ Shamash,Dragonborn,Wizard
 Ragefury the Potent,Orc,Fighter
 Osyth,Svart,Druid
 Mutuwa,Dryad,Barbarian
-St¿rkla,Human,Berserker
+Størkla,Human,Berserker
 Yusas Shatterstone,Dwarf,Druid
 Alyss Amada,Human,Fighter
 Clang,Warforged,Barbarian
@@ -18932,7 +18932,7 @@ Krang T. Nelson,Dark elf ,Wizard
 Tristan,Dark Elf/Human,Thief
 Bly,Deep Gnome,Cleric/Druid
 "Oraen ""Kindlepalm"" Fu-Finfergel",Deep Gnome,Monk
-PaÕNika DiÕKoteke,Demon,Assasin
+Pa’Nika Di’Koteke,Demon,Assasin
 Stygian,Dragonborn,Wizard (Necromancer)
 Drag'hul,Dragonborn,Dragon Rider
 Kelby Azzara,Dragonborn,Sorcerer
@@ -18975,7 +18975,7 @@ Leliel Baeniryn,Drow,Bard
 Danny Elfmin,Drow,Wizard
 Chei'a Aichara,drow,warlock
 Kyburn ,Drow,Magus
-"Taobthier ""Tobias"" SnŠll",Drow,Cleric
+"Taobthier ""Tobias"" Snäll",Drow,Cleric
 Lukas Christiansen,Drow,Rouge
 Sarafein Zerenith,Drow,Rogue
 Arelkya T'Zytos,Drow,Ardent (Psionic Fighter)
@@ -19002,7 +19002,7 @@ Tyrem,Dwarf,Fighter
 Carreg Killfinger,Dwarf,Sorceror
 Lira Truestone,Dwarf,Fighter
 Kalstar,Dwarf,Fighter
-Gustšv Ironface,Dwarf,Fighter
+Gustöv Ironface,Dwarf,Fighter
 Tommy Universe,Dwarf,Fighter
 Ulgrod,Dwarf,Dwarf Paragon
 Captain Shortbeard,Dwarf,Druid
@@ -19047,7 +19047,7 @@ Jim Death,Elf,Fighter/Magic-user
 Alrin Dalael,Elf,Warlock
 Dubh,Elf,Rouge
 Valdra Nailo,Elf,Rogue
-Ka•lo,Elf,Ranger
+Kaïlo,Elf,Ranger
 The Wall,Elf,Ranger
 Dog,Elf,Druid
 Igni,Elf,Sorcerer
@@ -19074,7 +19074,7 @@ Kethoro Freanitlarn,Elf,Warlock
 Langlomar,Elf,Cleric/barbarian
 Daechir,Elf,Warlock
 Qasim,Elf,Ranger
-Soverinn Na•lo,Elf,Cleric of Knowledge
+Soverinn Naïlo,Elf,Cleric of Knowledge
 Theldanon Thornpaw,elf,druid
 Wyll Ferryl,Elf,Rogue
 Annika Shaye,elf,wizard
@@ -19142,7 +19142,7 @@ Talikah,Gnome,Druid
 Salz Smegma,goblin,rogue
 Grotto,Goblin,Monk
 Furgus Razorbeard,Goblin,Bard
-LÕn-Dah,Goblin,Rogue
+L’n-Dah,Goblin,Rogue
 Narvy,Goblin,Paladin
 Pyt,Goblin,Bard
 Snarg BeDarkBarf,Goblin,Wizard
@@ -19281,7 +19281,7 @@ Rivinka Dierik,Half-orc,Sorcerer
 Tiakbois,Half-Orc,Barbarian/Alchemist
 Gurak,Half-Orc,Barbarian
 "Grosk ""Cookie""",Half-orc,Witch (Sea witch archetype)
-"""Soupy"" GŸdfre",Half-Orc,Wizard
+"""Soupy"" Güdfre",Half-Orc,Wizard
 Kazimir Voronin,half-orc,barbarian
 Pogranax,Half-Orc,Fighter
 Gallus,Half-Orc,Ranger
@@ -19345,7 +19345,7 @@ Araniel Serinade,High elf,sorcerer
 Morwen Liadon,High Elf (moon elf),Rogue 
 Enleth Antari,High Moon Elf,Wizard
 Volston OathForge,Hill Dwarf,Transmutation Wizard10/Paladin2
-Mˆiri Blue-Quartz,Hill Dwarf,Wild Magic Sorcerer
+Màiri Blue-Quartz,Hill Dwarf,Wild Magic Sorcerer
 Anakis Tycretaur,Hobgoblin,Sorcerer 
 Crog,Homebrew Elf,Fighter
 Aurelia,Humam,Rogue
@@ -19693,7 +19693,7 @@ Zahar Vendis,Tiefling,Cleric
 Precul Ipsem,Tiefling,Wizard
 Soren,Tiefling,Warlock
 Damakos Torment,Tiefling,Warlock
-Badb Catha B‡lor BalcbŽimnech,Tiefling,dex fighter-warlock
+Badb Catha Bálor Balcbéimnech,Tiefling,dex fighter-warlock
 Iantu Ianblad,Tiefling,Warlock
 Abigail,Tiefling,Paladin
 Tyzin Lorestav,Tiefling,Paladin
@@ -19759,8 +19759,8 @@ John Hay,Werewolf,Glass Walker Theurge
 Mordenkai ,Wild Elf,Sorcerer
 Skye Wolfe,Wild Elf,Ranger
 Eru,Wood Elf,Ranger
-Kopeiren èinfugen ,Wood elf,Bard
-Kopeiren èinfugen ,Wood elf,Bard
+Kopeiren Ëinfugen ,Wood elf,Bard
+Kopeiren Ëinfugen ,Wood elf,Bard
 Resinosa Silva,Wood Elf,Rogue
 Belligrava 'Grav' Leguma,Wood Elf,Ranger
 Reyna Meliosa,Wood Elf,Cleric
@@ -19875,7 +19875,7 @@ Scrimmick L'Hedge,goblin,druid
 Thull,Half-Orc,Monk
 Athorn,Human,Ranger
 Bo Daggit,Human,Ranger
- Curul—k‘,Elf,Thief
+ Curulókë,Elf,Thief
 Ben Rago,human(s),Wizard/Fighter
 Ander Brightfern,Aasimar,Cleric
 Aodhnait,Drow,Bard
@@ -19888,7 +19888,7 @@ Nev'Alrin Dagus,Half Drow Half Human,Sorcerer
 Magnion,Dragonborn, Sorcerer 
 Veronika Corvus Aveline Thana de'Valdis The Second of The Shadowfell (Vi),Was Human Now a Drow ,Cleric of The Raven Queen
 Gideon,Half-elf,Paladin
-ArichŽ,human,swashbuckler
+Ariché,human,swashbuckler
 Egros Abre Vujitas,human,sorcerer
 Oz'talun Angren,Tiefling,Warlock
 Brycon,centaur,warpriest
@@ -19897,7 +19897,7 @@ Eyrdway Demara,Half-Elf,Sorcerer
 Tegwyn Meadowsweet,Elf,Warlock
 Killian Fade,Elf (wood+drow),Witch
 Thoren Vicelord,Half-Elf,Ranger
-Zžkhwlaaey Sharptooth,half-orc,bard
+Zûkhwlaaey Sharptooth,half-orc,bard
 Farryn Brightwater,Half-Elf,Wizard
 Celephindor,Half-Elf,Sorcerer 
  Carl Rae Jenkins,Human,Bard
@@ -19983,7 +19983,7 @@ Zig ,Goblin,Arcane Trickster
 Tater Grailos,Human,Sorcerer
 Illiex Montrill Mendean IX,Human,Sorcerer
 Skeld Ironthews,Human,Fighter
-Afua Allmhur‡n DaAxis,Deva,Bard
+Afua Allmhurán DaAxis,Deva,Bard
 Sam Stoutbones (Miller),Halfling,Fighter
 Alacrity,tiefling,monk/cleric multiclass
 Miri Greycastle,Human,Wizard
@@ -20000,7 +20000,7 @@ Raxicoricofalipatorius Kalacpelgassacresalvoc,Ratman,"Rogue, bard, dragoon, seek
 Erias Riminez,Human,Sorcerer
 Skullbutt,Small Cat,Bard
 Kallista,dwarf,sorcerer
-"Aphglirvorien Smith															 															 															",Half-Elf,Rogue
+Aphglirvorien Smith															 															 															,Half-Elf,Rogue
 Gabriel,Aasimar,Fighter
 Carilla Pinn,Half Left Elf,Bard
 Dikordoni,half-elf,bard
@@ -20068,7 +20068,7 @@ Cal Warden,Human,Cleric
 Jakor the Knife,Half-Orc,Rogue
 Vera Mil'aro,High Elf,Rogue
 Willa Wise,Human-presenting Aasimar,"Bard/Paladin (or what I like to call a ""pala-bard"")"
-FrŽlaf,Elf,Ranger
+Frélaf,Elf,Ranger
 Aidan Scien,Human,Fighter
 Goragog Nazur,Orc,Warlock
 Gork,Half-orc,Barbarian
@@ -20092,7 +20092,7 @@ Mattais,Half-orc,Cleric
 Constantine,Half-Orc,Witch
 Splug,Lizardfolk,Barbarian
 Siloqui Snow,Half-drow,Cleric/Warlock
-Fritz ÒJackÓ Hanswurst,Human,Rogue/assassin
+Fritz “Jack” Hanswurst,Human,Rogue/assassin
 Casimir,halfling,cleric
 Ongar Vethrin,Human,Wizard
 Ironbark,Vengeful Tree Spirit,Barbarian
@@ -20119,7 +20119,7 @@ Nathe Sailor,Half-orc & half elf,Monk & Barbarian
 Kias Le'Mirrin,Human,Fighter
 Kenna Merigold,fire genasi,rogue 
 Finduilas,Half-Elf ,ranger
-HrŸne,Human,Barbarian
+Hrüne,Human,Barbarian
 M'herra,Tabaxi,Monk
 Bahku,Goblin,Barbarian
 Celia Rinas,Human,Warlock
@@ -20180,13 +20180,13 @@ Diana Bethlehem Douglas,half-elf,bard
 Rudy Kulos,Human,Rogue
 Rolloch Round-Ear,Ratfolk,Battle Cleric
 Prince Traorus,Undead human,Necromancer
-ZamŠren,Aquatic Elf,Bard
+Zamären,Aquatic Elf,Bard
 Selene,half-elf,bard
 Tali,human,monk
 Hester Hawthorne,Human,Inquisitor
 Redlen,human,rogue
 Amara,Human,Warlock
-Jangaiva hiTlŽlsu,human,Assassin
+Jangaiva hiTlélsu,human,Assassin
 Chime,Kenku,Rogue
 Tyrrell Foyle,Half-Elf,Sorcerer
 Roger Jinx,Human,Ranger (freebooter pirate)
@@ -20345,8 +20345,8 @@ Danielle Roseaqua,High Elf,Rogue
 Shayna Moore,Aasimar,Paladin
 Fiorello Longfellow,Halfling,Bard
 Martin Penhallow,Dwarf,Cleric
-Soraya SamrÕadeah Arshein,Half Elf ,Ranger
-Charlotte Elizabeth Lorraine ÒRedÓ de Montescue ,Human,Barbarian
+Soraya Samr’adeah Arshein,Half Elf ,Ranger
+Charlotte Elizabeth Lorraine “Red” de Montescue ,Human,Barbarian
 Callie Goodbarrel,Halfling,Bard
 Wilson Lombardy,human,fighter
 James Pines,Human,Charismatic Hero
@@ -20419,7 +20419,7 @@ Arrhenia Citrinitas,Tiefling,Sorcerer
 Llewellyn Oth Sewan,Human,Wizard
 Styl Neinarte,Eladrin,Fighter/Wizard
 Kannadi Albedo,Human,Warlock
-Pennie ÒPenÓ Pepperring,Halfling,Wizard
+Pennie “Pen” Pepperring,Halfling,Wizard
 "Syprinn ""Meteor"" Rubrofuscus",Dragonborn,Cleric
 Canary Temp,Ghostwise Halfling,Ranger/Cleric/Druid/Rogue/Sorcerer
 Xandor Undoviel,Elf,Ranger
@@ -20435,7 +20435,7 @@ Sacha,Tabaxi,Cleric
 Book,Warforged,Fighter
 Disylgi Amacanfel,dwarf,paladin
 Leanora,Half-elf,Rogue
-BrŽgevic,aasimar,elementalist
+Brégevic,aasimar,elementalist
 Thashk,Orc,Bard
 Luka,Ha;f-Elf,Rogue
 Rain Silvertrees,Halfling,Monk
@@ -20654,19 +20654,19 @@ Matrim Duskwalker,Half Elf,Rogue
 Dun,Half-Ogre,Barbarian/Ranger
 Cormac,Human,Wizard
 Red Sky at Morning,Solar,Night Caste
-Sker êshvalr,Dwarf,Druid
+Sker Íshvalr,Dwarf,Druid
 Jaspermunk Hildybin Bibbertyfimble,Gnome,Swashbuckler
 Sil Andelmaus Tetheril,Elf,Cleric
-Mek LethÕOsh,Half-Orc,Fighter
-Lady Orelka Meloros NÕDare ,Human,Sorcerer
+Mek Leth’Osh,Half-Orc,Fighter
+Lady Orelka Meloros N’Dare ,Human,Sorcerer
 Jemma Aurelian,Human,Fighter
 Kira Westfall,human,rogue
 Quenten Auleris ,human,warlock
 Blorp Blerg,SLIME,Shapeshifter
 Sir Poppin Loksalot,Elf,Bard
 Lestyr Moore,Human,Rogue
-VaeÕUlov Dawn-Widow Makiogolai,Goliath,"Ranger, Fighter, Knight Protector"
-Fœ g_ xi_ng ying,Catfolk,Bard
+Vae’Ulov Dawn-Widow Makiogolai,Goliath,"Ranger, Fighter, Knight Protector"
+Fú g_ xi_ng ying,Catfolk,Bard
 Creedy,Elan,psychic warrior
 "Olliechock ""Ollie"" Erralfizflin Norrfoodleis Queenipper III",Gnome,Scout
 Erlen,High Elf,Wizard
@@ -20715,8 +20715,8 @@ Arjhan Ironbeard,Dragonborn,Paladin
 Sakis Zcerneboch,Drow,Blackguard
 Niershka,Halfling,Rogue
 Roscoe P Coalchamber,Rock Gnome,Cleric
-Nestadoneth Celegw”n,Half Elf,Rogue
-NÕtalhi Lapis Stonehewn,Earth Genasi,Cleric
+Nestadoneth Celegwîn,Half Elf,Rogue
+N’talhi Lapis Stonehewn,Earth Genasi,Cleric
 Drizzt Do'Urden,Drow,Renegade
 Vash Vidad,Half-Orc,Fighter
 Autogar,Human,Fighter
@@ -20727,7 +20727,7 @@ Althaea Galanodel,High Elf,Rogue Wizard
 Xen,human,cleric
 Kellis Firewater,Ghostwise Halfling,Bard
 Alisya,Half-orc,Cleric
-Rand DoÕOdon,Human,Wizard
+Rand Do’Odon,Human,Wizard
 Pinnifer Cabit,Human,Wizard
 Sirron,Half-Elf,Ranger
 Xylon,Human,Rogue
@@ -20771,7 +20771,7 @@ Despair,Tiefling,Warlock
 Saenae Alder,Half-elf,Paladin
 Tarkonis,Half-Kobold,Urban Ranger
 Max Sterling,Human,Monk of the Four Winds
-Fl—ki Vilger_arson,Human,Barbarian
+Flóki Vilger_arson,Human,Barbarian
 R'Dan the liar,Dragonborn,Monk
 Black Mage Evilwizardington,Human,Wizard
 Lyanna Mormont,Half-Elf,Barbarian
@@ -20781,7 +20781,7 @@ GABRIAL THE SKULL CRUSHER,human,Fighter
 Balthazar the Corpulent ,dwarf,duck mage
 Slice Endice,Human vampire,Rogue Swordsage
 Simon Carthus,Human,Psion
-TinbrŽ,Mousefolk,Ranger
+Tinbré,Mousefolk,Ranger
 Horus Bertholdt,Halfling,Paladin
 Wilbur Wavesword,Elf,Bard
 Ruskin Carachaeron,Wild elf,Ranger/druid
@@ -20885,7 +20885,7 @@ Mayrita,Halfling,Rogue
 Magdalena Muffins,Human,Rogue
 Quill/Koten/Quote Spellsong /Panati/Silverfond,Half-Elf,Bard
 Epiphany Placeholder,Tiefling,Cleric
-Jandar Na•lo,Half-elf,Warlock
+Jandar Naïlo,Half-elf,Warlock
 Wynnlynn Bryx,Gnome,Warlock
 Gnat,Half-Orc,Eldritch Knight
 James (JA-M35),Warforged,Bard/Rogue
